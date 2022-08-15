@@ -1,0 +1,161 @@
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+%% LaTeX book template                           %%
+%% Author:  Amber Jain (http://amberj.devio.us/) %%
+%% License: ISC license                          %%
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+\documentclass[a4paper,11pt]{book}
+\usepackage[T1]{fontenc}
+\usepackage[utf8]{inputenc}
+\usepackage{lmodern}
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Source: http://en.wikibooks.org/wiki/LaTeX/Hyperlinks %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\usepackage{hyperref}
+\usepackage{graphicx}
+\usepackage[english]{babel}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% 'dedication' environment: To add a dedication paragraph at the start of book %
+% Source: http://www.tug.org/pipermail/texhax/2010-June/015184.html            %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\newenvironment{dedication}
+{
+   \cleardoublepage
+   \thispagestyle{empty}
+   \vspace*{\stretch{1}}
+   \hfill\begin{minipage}[t]{0.66\textwidth}
+   \raggedright
+}
+{
+   \end{minipage}
+   \vspace*{\stretch{3}}
+   \clearpage
+}
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Chapter quote at the start of chapter        %
+% Source: http://tex.stackexchange.com/a/53380 %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\makeatletter
+\renewcommand{\@chapapp}{}% Not necessary...
+\newenvironment{chapquote}[2][2em]
+  {\setlength{\@tempdima}{#1}%
+   \def\chapquote@author{#2}%
+   \parshape 1 \@tempdima \dimexpr\textwidth-2\@tempdima\relax%
+   \itshape}
+  {\par\normalfont\hfill--\ \chapquote@author\hspace*{\@tempdima}\par\bigskip}
+\makeatother
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% First page of book which contains 'stuff' like: %
+%  - Book title, subtitle                         %
+%  - Book author name                             %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+% Book's title and subtitle
+\title{\Huge \textbf{Artificial Intelligence}  \\ \Huge Pada Pengenalan Wajah}
+\begin{document}
+
+\frontmatter
+\maketitle
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Add a dedication paragraph to dedicate your book to someone %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% Auto-generated table of contents, list of figures and list of tables %
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+\tableofcontents
+\listoffigures
+
+\mainmatter
+
+%%%%%%%%%%%%%%%%
+% NEW CHAPTER! %
+%%%%%%%%%%%%%%%%
+\chapter{Pengantar}
+
+\section{Artificial Intelligence Pada Pengenalan Wajah}
+ Dilansir dari Stanford Computer science, Artificial Intelligence(AI) atau kecerdasan buatan adalah ilmu dan rekayasa pembuatan mesin cerdas, melibatkan mekanisme untuk menjalankan suatu tugas menggunakan komputer.  Sehingga artificial intelligence merupakan sebuah teknologi yang memungkinkan sistem komputer, perangkat lunak, program dan robot untuk “berpikir” secara cerdas layaknya manusia. Kecerdasan buatan suatu mesin dibuat oleh manusia melalui algoritma pemrograman yang kompleks.\footnote{Mustofa, Zaenal. \emph{Artificial Intelligence (AI): Pengertian, Perkembangan, Cara Kerja, Dan Dampaknya}.Universitas STEKOM} \\
+\\Secara garis besar, AI dapat melakukan salah satu dari keempat faktor berikut:
+
+- \emph{Acting Humanly} , sistem bertindak layaknya manusia.
+
+- \emph{Thinking Humanly} , sistem dapat berpikir seperti manusia.
+
+- \emph{Think Rationally} , sistem dapat berpikir secara rasional.
+
+- \emph{Act Rationally} , sistem mampu bertindak secara rasional.\\
+
+Pengenalan dan identifikasi wajah merupakan contoh sistem penerapan konsep Artificial Intelligence menggunakan biometrik wajah yang terus berkembang pada bidang \emph{computer vision}. Kecerdasan buatan ini digunakan secara \emph{real-time} untuk menangkap dan mengenali wajah seseorang pada kamera.
+
+Computer Vision adalah bagaimana komputer/mesin dapat melihat, teknik computer vision mampu memvisualisasikan data menganalisaberupa gambar image atau dalam bentuk vidio. Tujuan utama dari Computer Vision adalah agar komputer atau mesin dapat meniru kemampuan perseptual mata manusia dan otak, atau bahkan dapat mengunggulinya untuk tujuan tertentu.
+\footnote{Wibowo, Ari.\emph{Implementasi Teknik Computer Vision}.Universitas Widyatama}
+
+\section{Face Detection}
+\emph{Face Detection} atau pengenalan wajah merupakan sebuah teknologi untuk menangkap wajah seseorang pada kamera yang menjadi tahap awal dalam sistem pengenalan wajah (\emph{Face Recognition})  yang digunakan dalam identifikasi biometrik. Deteksi wajah juga dapat digunakan untuk pencarian atau pengindeksan data wajah dari citra atau video yang berisi wajah dengan berbagai ukuran, posisi, dan latar belakang.\footnote{NUGROHO, Setyo, Drs. Agus Hardjoko, MSc.,PhD. \emph{Sistem pendeteksi wajah manusia pada citra digital}, Universitas Gajah mada, diakses dari http://etd.repository.ugm.ac.id/penelitian/detail/23416}\\
+
+Pembuatan pendeteksi wajah ini dapat dibuat menggunakan openCV yang  merupakan aplikasi perangkat lunak untuk pengolahan citra dinamis secara \emph{real-time}, selain itu openCV juga banyak mendukung bahasa pemrograman diantaranya C++, C, python, dan java. Pada pembahasan kali ini, penjelasan mengenai proses pembuatan deteksi wajah akan menggunakan openCV dengan bahasa pemrograman python. Proses deteksi objek maupun wajah dapat menggunakan metode algoritma Haar Cascade Classifier.\\
+
+Algoritma Haar Cascade Classifier merupakan salah satu algoritma yang digunakan untuk mendeteksi sebuah wajah dengan cepat dan \emph{real-time} sebuah benda termasuk wajah manusia. Metode ini menggunakan haar-like features dimana perlu dilakukan training terlebih dahulu untuk mendapatkan suatu pohon keputusan dengan nama cascade claasifier sebagai penentu apakah ada obyek atau tidak dalam frame yang diproses, dengan mengelompokka fitur-fitur pada gambaran wajah berdasarkan sisi yang terang dan sisi yang gelap. Adanya fitur Haar
+ditentukan dengan cara mengurangi rata-rata piksel pada daerah gelap dari rata-rata piksel pada daerah terang\footnote{Suhepy Abidin.\emph{Deteksi Wajah Menggunakan Metode Haar Cascade Classifier Berbasis Webcam Pada Matlab}.Jurusan Teknik Elektro, Politeknik Negeri Ujung Pandang}
+
+
+\section{Face Recognition}
+Face recognition adalah sebuah teknologi yang mampu untuk mengindentifikasi dan mengkonfirmasi indentitas seseorang menggunakan wajah mereka. Face recognition menjadi salah satu sistem identifikasi biometrik yang paling baik dalam mengindentifikasi seseorang dengan fitur-fitur khusus pada tubuh maupun DNA yang menjadi pembeda antara satu orang dengan orang lainnya. Menurut US Government Accountability Office, ada 4 komponen yang dibutuhkan untuk melakukan face recognition, yaitu: kamera, faceprint, Database dan terakhir Algoritme untuk membandingkan faceprint dari wajah target dengan faceprint dalam database.\footnote{Putri, Monica. \emph{Cara Kerja Face Recognition}. Universitas Binus}
+
+\chapter{Implementasi Sistem}
+\section{Proses Instalasi}
+Pembuatan sistem face detection dan face recognition akan menggunakan bahasa pemrograman Python dan \emph{library} openCV. Berikut adalah cara instalasi Python serta library openCV yang akan digunakan.
+
+\subsection{Instalasi Python}
+Instalator Python dapat didownload pada website resmi python \url{https://www.python.org/downloads}
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/web_py.PNG}
+    \caption{Website resmi python}
+\end{figure}
+\\Download instalator versi terbaru dari python atau sesuaikan dengan kebutuhan penggunaan
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/py_ver.PNG}
+    \caption{Pilihan Versi Python}
+\end{figure}
+\\Kemudian, buka file instalator python yang telah didownload, centang "Add Python 3.10 to PATH" dan klik \emph{Customize Installation}
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/py_1.PNG}
+    \caption{Instalator python}
+\end{figure}
+\\Pilih fitur yang akan digunakan, untuk saran pilih semua fitur agar instalasi python lengkap, lalu klik 'next'
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/py_2.PNG}
+    \caption{Pilihan fitur}
+\end{figure}
+\\Centang pilihan sesuai pada gambar, kemudian pilih direktori untuk lokasi penyimpanan instalasi python sesuai kebutuhan. Lalu klik "Install" dan tunggu hingga proses instalasi selesai.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/py_3.PNG}
+    \caption{Pilihan lanjutan dan penyesuaian lokasi}
+\end{figure}
+
+
+
+\section{Pembuatan Sistem Face Detection}
+Pembuatan sistem Face Detection kali ini menggunakan algoritma Haar Cascade Classifier. Proses pertama yang dilakukan adalah dengan mengubah citra warna menjadi citra \emph{grayscale}, selanjutkan melakukan pemindaian pada citra \emph{grayscale} untuk mendapatkan nilai fitur citra dengan \emph{Haar-Like Feature} yang menyatakan objek wajah.\\
+
+Berikut ini merupakan bagian-bagian untuk membuat sistem face detection atau pendeteksi wajah.
+
+- Memasukan library openCV
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.4\linewidth]{images/1.PNG}
+    \caption{Memasukan library openCV}
+\end{figure}
+ 
+cv2 merupakan library yang ada pada openCV
+
+\end{document}
