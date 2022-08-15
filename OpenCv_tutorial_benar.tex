@@ -142,8 +142,25 @@ Instalator Python dapat didownload pada website resmi python \url{https://www.py
     \caption{Pilihan lanjutan dan penyesuaian lokasi}
 \end{figure}
 
+\subsection{Instalasi OpenCV}
+Untuk Instalasi openCV dapat dilakukan melalui CMD(\emph{Command Prompt}). Buka direktori penyimpanan instalasi python, lalu menuju direktori 'Scripts' tempat pip.exe berada. Lalu tuliskan perintah \emph{pip install opencv-contrib-python} untuk memulai instalasi openCV, tunggu instalasi hingga selesai.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.7\linewidth]{images/opencv_1.PNG}
+    \caption{Instalasi openCV}
+\end{figure}
+\\Setelah instalasi selesai, buka python IDLE atau pada CMD didalam direktori instalasi python, buka python.\\
 
+Setelah python terbuka, ketik \textbf{import cv2} lalu enter, jika saat pengecekan openCV pada python tidak terjadi error, maka openCV berhasil di-install.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\linewidth]{images/opencv_2.PNG}
+    \caption{Cek openCV pada python IDLE}
+    \includegraphics[width=1\linewidth]{images/opencv_3.PNG}
+    \caption{Cek openCV pada CMD}
+\end{figure}
 
+\newpage
 \section{Pembuatan Sistem Face Detection}
 Pembuatan sistem Face Detection kali ini menggunakan algoritma Haar Cascade Classifier. Proses pertama yang dilakukan adalah dengan mengubah citra warna menjadi citra \emph{grayscale}, selanjutkan melakukan pemindaian pada citra \emph{grayscale} untuk mendapatkan nilai fitur citra dengan \emph{Haar-Like Feature} yang menyatakan objek wajah.\\
 

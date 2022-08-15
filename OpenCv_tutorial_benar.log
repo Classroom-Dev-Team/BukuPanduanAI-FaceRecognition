@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  15 AUG 2022 10:33
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  15 AUG 2022 13:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -370,27 +370,27 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 11
 (C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/web_py.PNG, id=113, 956.07187pt x 680.5425pt>
+<images/web_py.PNG, id=124, 956.07187pt x 680.5425pt>
 File: images/web_py.PNG Graphic file (type png)
 <use images/web_py.PNG>
 Package pdftex.def Info: images/web_py.PNG  used on input line 117.
 (pdftex.def)             Requested size: 323.9978pt x 230.62334pt.
-<images/py_ver.PNG, id=115, 917.67844pt x 682.80093pt>
+<images/py_ver.PNG, id=126, 917.67844pt x 682.80093pt>
 File: images/py_ver.PNG Graphic file (type png)
 <use images/py_ver.PNG>
 Package pdftex.def Info: images/py_ver.PNG  used on input line 123.
 (pdftex.def)             Requested size: 323.9978pt x 241.06764pt.
-<images/py_1.PNG, id=116, 624.83438pt x 383.18156pt>
+<images/py_1.PNG, id=127, 624.83438pt x 383.18156pt>
 File: images/py_1.PNG Graphic file (type png)
 <use images/py_1.PNG>
 Package pdftex.def Info: images/py_1.PNG  used on input line 129.
 (pdftex.def)             Requested size: 323.9978pt x 198.69424pt.
-<images/py_2.PNG, id=117, 619.56468pt x 375.65344pt>
+<images/py_2.PNG, id=128, 619.56468pt x 375.65344pt>
 File: images/py_2.PNG Graphic file (type png)
 <use images/py_2.PNG>
 Package pdftex.def Info: images/py_2.PNG  used on input line 135.
 (pdftex.def)             Requested size: 323.9978pt x 196.44145pt.
-<images/py_3.PNG, id=118, 622.57594pt x 382.42876pt>
+<images/py_3.PNG, id=129, 622.57594pt x 382.42876pt>
 File: images/py_3.PNG Graphic file (type png)
 <use images/py_3.PNG>
 Package pdftex.def Info: images/py_3.PNG  used on input line 141.
@@ -401,7 +401,13 @@ Package pdftex.def Info: images/py_3.PNG  used on input line 141.
 Underfull \vbox (badness 1454) has occurred while \output is active []
 
  [4 <./images/py_ver.PNG> <./images/py_1.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 148--149
+<images/opencv_1.PNG, id=143, 264.23718pt x 20.32594pt>
+File: images/opencv_1.PNG Graphic file (type png)
+<use images/opencv_1.PNG>
+Package pdftex.def Info: images/opencv_1.PNG  used on input line 149.
+(pdftex.def)             Requested size: 251.9989pt x 19.38457pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 146--153
 
  []
 
@@ -409,27 +415,42 @@ Underfull \hbox (badness 10000) in paragraph at lines 148--149
 Underfull \vbox (badness 7238) has occurred while \output is active []
 
  [5 <./images/py_2.PNG> <./images/py_3.PNG>]
-<images/1.PNG, id=138, 78.2925pt x 18.0675pt>
+<images/opencv_2.PNG, id=150, 529.98pt x 138.5175pt>
+File: images/opencv_2.PNG Graphic file (type png)
+<use images/opencv_2.PNG>
+Package pdftex.def Info: images/opencv_2.PNG  used on input line 157.
+(pdftex.def)             Requested size: 360.0pt x 94.09131pt.
+<images/opencv_3.PNG, id=151, 589.4522pt x 116.68594pt>
+File: images/opencv_3.PNG Graphic file (type png)
+<use images/opencv_3.PNG>
+Package pdftex.def Info: images/opencv_3.PNG  used on input line 159.
+(pdftex.def)             Requested size: 360.0pt x 71.26555pt.
+ [6 <./images/opencv_1.PNG> <./images/opencv_2.PNG> <./images/opencv_3.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 165--166
+
+ []
+
+<images/1.PNG, id=159, 78.2925pt x 18.0675pt>
 File: images/1.PNG Graphic file (type png)
 <use images/1.PNG>
-Package pdftex.def Info: images/1.PNG  used on input line 155.
+Package pdftex.def Info: images/1.PNG  used on input line 172.
 (pdftex.def)             Requested size: 143.9978pt x 33.23492pt.
- [6 <./images/1.PNG>] (OpenCv_tutorial_benar.aux)
+[7 <./images/1.PNG>] (OpenCv_tutorial_benar.aux)
 Package rerunfilecheck Info: File `OpenCv_tutorial_benar.out' has not changed.
-(rerunfilecheck)             Checksum: 835C7E3063E47470CFBAB76380B8C284;1283.
+(rerunfilecheck)             Checksum: 1E866565E03D68DA703A5544F5CBB574;1427.
  ) 
 Here is how much of TeX's memory you used:
- 9692 strings out of 477992
- 158820 string characters out of 2826050
+ 9719 strings out of 477992
+ 159361 string characters out of 2826050
  464222 words of memory out of 3000000
- 28274 multiletter control sequences out of 15000+600000
+ 28293 multiletter control sequences out of 15000+600000
  546012 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,77p,779b,463s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on OpenCv_tutorial_benar.pdf (12 pages, 1411046 bytes).
+Output written on OpenCv_tutorial_benar.pdf (13 pages, 1432199 bytes).
 PDF statistics:
- 204 PDF objects out of 1000 (max. 8388607)
- 34 named destinations out of 1000 (max. 500000)
- 95 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 229 PDF objects out of 1000 (max. 8388607)
+ 39 named destinations out of 1000 (max. 500000)
+ 118 words of extra memory for PDF output out of 10000 (max. 10000000)
 
