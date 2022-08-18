@@ -52,6 +52,17 @@ INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\lm\lmodern.sty
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\lm\lmodern.sty
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\lm\lmodern.sty
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\lm\lmodern.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\enumitem\enumitem.sty
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\hyperref\hyperref.sty
@@ -535,8 +546,8 @@ INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\lm\omxlmex.fd
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmex10.tfm
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmcsc10.tfm
 INPUT C:\Users\Tikomdik\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
-INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmro10.tfm
 INPUT .\OpenCv_tutorial_benar.toc
 INPUT OpenCv_tutorial_benar.toc
 INPUT OpenCv_tutorial_benar.toc
@@ -564,6 +575,7 @@ INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\lmsy5.
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmr6.tfm
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri9.tfm
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmri10.tfm
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmro10.tfm
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\tfm\public\lm\ec-lmbx12.tfm
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex\latex\lm\t1lmtt.fd
@@ -697,6 +709,8 @@ INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx10.pfb
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmbx12.pfb
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
+INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmcsc10.pfb
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr10.pfb
 INPUT C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\fonts\type1\public\lm\lmr12.pfb
