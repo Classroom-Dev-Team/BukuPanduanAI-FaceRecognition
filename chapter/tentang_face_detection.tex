@@ -1,0 +1,14 @@
+\section{Face Detection}
+\emph{Face Detection} atau pengenalan wajah merupakan sebuah teknologi untuk menangkap wajah seseorang pada kamera yang menjadi tahap awal dalam sistem pengenalan wajah (\emph{Face Recognition}) 
+yang digunakan dalam identifikasi biometrik. Deteksi wajah juga dapat digunakan untuk pencarian atau pengindeksan data wajah dari citra atau video yang berisi wajah dengan berbagai ukuran, posisi, dan latar belakang.
+\footnote{NUGROHO, Setyo, Drs. Agus Hardjoko, MSc.,PhD. \emph{Sistem pendeteksi wajah manusia pada citra digital}, Universitas Gajah mada, diakses dari http://etd.repository.ugm.ac.id/penelitian/detail/23416}\\
+
+Pembuatan pendeteksi wajah ini dapat dibuat menggunakan openCV yang  merupakan aplikasi perangkat lunak untuk pengolahan citra dinamis secara \emph{real-time}, selain itu openCV juga banyak mendukung 
+bahasa pemrograman diantaranya C++, C, python, dan java. Pada pembahasan kali ini, penjelasan mengenai proses pembuatan deteksi wajah akan menggunakan openCV dengan bahasa pemrograman python. 
+Proses deteksi objek maupun wajah dapat menggunakan metode algoritma Haar Cascade Classifier.\\
+
+Algoritma Haar Cascade Classifier merupakan salah satu algoritma yang digunakan untuk mendeteksi sebuah wajah dengan cepat dan \emph{real-time} sebuah benda termasuk wajah manusia. 
+Metode ini menggunakan haar-like features dimana perlu dilakukan training terlebih dahulu untuk mendapatkan suatu pohon keputusan dengan nama cascade claasifier sebagai penentu 
+apakah ada obyek atau tidak dalam frame yang diproses, dengan mengelompokka fitur-fitur pada gambaran wajah berdasarkan sisi yang terang dan sisi yang gelap. Adanya fitur Haar
+ditentukan dengan cara mengurangi rata-rata piksel pada daerah gelap dari rata-rata piksel pada daerah terang\footnote{Suhepy Abidin.\emph{Deteksi Wajah Menggunakan Metode Haar 
+Cascade Classifier Berbasis Webcam Pada Matlab}.Jurusan Teknik Elektro, Politeknik Negeri Ujung Pandang}

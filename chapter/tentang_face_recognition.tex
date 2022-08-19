@@ -1,0 +1,19 @@
+\section{Face Recognition}
+Face recognition adalah sebuah teknologi yang mampu untuk mengindentifikasi dan mengkonfirmasi identitas seseorang menggunakan wajah mereka. 
+Face recognition menjadi salah satu sistem identifikasi biometrik yang paling baik dalam mengindentifikasi seseorang dengan fitur-fitur khusus pada tubuh maupun DNA yang menjadi pembeda antara satu orang dengan orang lainnya. 
+
+Menurut US Government Accountability Office, ada 4 komponen yang dibutuhkan untuk melakukan face recognition, yaitu: kamera, faceprint, Database dan terakhir Algoritme untuk membandingkan faceprint dari wajah target dengan faceprint dalam database.
+\footnote{Putri, Monica. \emph{Cara Kerja Face Recognition}. Universitas Binus}
+Setelah terpenuhinya komponen tersebut, dilakukan beberapa tahap untuk melakukan face recognition.
+
+Menurur Haisong Gu, Qiang Ji, dan Zhiwei Zu (2002), pengenalan wajah umumnya melalui 3 tahapan untuk mendapatkan hasil.
+\begin{enumerate}[1.]
+    \item \emph{Face Detection}, dilakukan untuk mendeteksi adanya atau tidak pada frame yang dibaca sistem. Pada proses ini menggunakan metode \emph{Haar-cascade Classifier}
+    \item \emph{Facial Expression Information Extraction}, dilakukan pada wajah yang sudah terdeteksi untuk mengekstraksi informasi penting yang akan didapatkan dari wajah 
+    untuk membedakan wajah. Fitur atau bagain wajah yang telah diekstraksi nantinya akan digunakan untuk pencocokan wajah.
+    \item \emph{Expression Clssification}, merupakan proses akhir dalam pengenalan wajah, dimana sistem melakukan pencocokan dari masukan wajah dengan data yang ada pada database
+  \end{enumerate}
+
+Ada beberapa algoritma untuk melakukan pencocokan pada proses pengenalan wajah yang disediakan oleh openCV. Local Binary Pattern Histogram (LBPH) adalah salah satu dari tiga algoritma pengenalan wajah bawaan pada library OpenCV antara lain Eigenface,
+Fisherfaces, dan LBPH. Dibandingkan dengan kedua algoritma tersebut, LBPH tidak hanya dapat mengenali muka depan, tetapi juga mengenali muka samping yang lebih fleksibel. Metode ini bekerja dengan membandingkan dan mencocokan histogram yang sudah 
+diekstraksi dengan citra wajah yang sudah ada pada database/dataset.
