@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  18 AUG 2022 11:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  19 AUG 2022 10:00
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -225,7 +225,7 @@ Package babel Info: Hyphen rules for 'newzealand' set to \l@ukenglish
 Package babel Info: Importing font and identification data for english
 (babel)             from babel-en.ini. Reported on input line 11.
 )
-LaTeX Font Info:    Trying to load font information for T1+lmr on input line 62.
+LaTeX Font Info:    Trying to load font information for T1+lmr on input line 60.
  (C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmr.fd
 File: t1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 ) (C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pdftex.def
@@ -235,25 +235,25 @@ File: l3backend-pdftex.def 2022-08-05 L3 backend support: PDF output (pdfTeX)
 ) (OpenCv_tutorial_benar.aux)
 \openout1 = `OpenCv_tutorial_benar.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 62.
-LaTeX Font Info:    ... okay on input line 62.
-Package hyperref Info: Link coloring OFF on input line 62.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 60.
+LaTeX Font Info:    ... okay on input line 60.
+Package hyperref Info: Link coloring OFF on input line 60.
  (OpenCv_tutorial_benar.out) (OpenCv_tutorial_benar.out)
 \@outlinefile=\write3
 \openout3 = `OpenCv_tutorial_benar.out'.
@@ -283,28 +283,28 @@ Package grfext Info: Graphics extension search list:
  (C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
-LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 66.
+LaTeX Font Info:    Trying to load font information for OT1+lmr on input line 64.
  (C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex/latex/lm\ot1lmr.fd
 File: ot1lmr.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OML+lmm on input line 66.
+LaTeX Font Info:    Trying to load font information for OML+lmm on input line 64.
  (C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex/latex/lm\omllmm.fd
 File: omllmm.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 66.
+LaTeX Font Info:    Trying to load font information for OMS+lmsy on input line 64.
  (C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex/latex/lm\omslmsy.fd
 File: omslmsy.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 66.
+LaTeX Font Info:    Trying to load font information for OMX+lmex on input line 64.
  (C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex/latex/lm\omxlmex.fd
 File: omxlmex.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <12> on input line 66.
+(Font)              <12> on input line 64.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <8> on input line 66.
+(Font)              <8> on input line 64.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <6> on input line 66.
+(Font)              <6> on input line 64.
  [1
 
 
@@ -320,7 +320,7 @@ LaTeX Font Info:    External font `lmex10' loaded for size
 pdfTeX warning (ext4): destination with the same identifier (name{page.i}) has been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.75 \listoffigures
+l.73 \listoffigures
                     [1
 
 ] (OpenCv_tutorial_benar.lof)
@@ -332,176 +332,195 @@ l.75 \listoffigures
 ]
  1.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <9> on input line 85.
+(Font)              <9> on input line 83.
 LaTeX Font Info:    External font `lmex10' loaded for size
-(Font)              <5> on input line 85.
+(Font)              <5> on input line 83.
 
-Underfull \hbox (badness 10000) in paragraph at lines 85--87
-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 94--95
+Underfull \hbox (badness 10000) in paragraph at lines 83--85
 
  []
 
 
-Overfull \hbox (10.56136pt too wide) in paragraph at lines 98--100
+Overfull \hbox (10.56136pt too wide) in paragraph at lines 94--96
 []\T1/lmr/m/n/10.95 Computer Vi-sion adalah bagaimana kom-puter/mesin da-pat meli-hat, teknik
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--102
-[][][]\T1/lmr/m/n/9 NUGROHO, Se-tyo, Drs. Agus Hard-joko, MSc.,PhD. \T1/lmr/m/it/9 Sis-tem pen-de-
- []
-
-
-Underfull \hbox (badness 3271) in paragraph at lines 102--102
-\T1/lmr/m/it/9 teksi wa-jah manu-sia pada citra dig-i-tal\T1/lmr/m/n/9 , Uni-ver-si-tas Ga-jah mada, di-ak-ses dari
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 102--103
-
  []
 
 [1
 
 
 ]
-Underfull \hbox (badness 10000) in paragraph at lines 104--105
+Underfull \hbox (badness 10000) in paragraph at lines 98--98
+[][][]\T1/lmr/m/n/9 NUGROHO, Se-tyo, Drs. Agus Hard-joko, MSc.,PhD. \T1/lmr/m/it/9 Sis-tem pen-de-
+ []
+
+
+Underfull \hbox (badness 3271) in paragraph at lines 98--98
+\T1/lmr/m/it/9 teksi wa-jah manu-sia pada citra dig-i-tal\T1/lmr/m/n/9 , Uni-ver-si-tas Ga-jah mada, di-ak-ses dari
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 98--99
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 100--101
 
  []
 
 [2] [3]
  2.
-LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 132.
+
+Overfull \hbox (19.17155pt too wide) in paragraph at lines 125--127
+\T1/lmr/m/n/10.95 Ada be-ber-apa model al-go-ritma yang su-dah dise-di-akan openCV un-tuk melakukan
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 140--146
+
+ []
+
+[4
+
+] [5]
+ 3.
+LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 165.
 (C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/web_py.PNG, id=137, 956.07187pt x 680.5425pt>
+<images/web_py.PNG, id=176, 956.07187pt x 680.5425pt>
 File: images/web_py.PNG Graphic file (type png)
 <use images/web_py.PNG>
-Package pdftex.def Info: images/web_py.PNG  used on input line 135.
+Package pdftex.def Info: images/web_py.PNG  used on input line 168.
 (pdftex.def)             Requested size: 323.9978pt x 230.62334pt.
-<images/py_ver.PNG, id=139, 917.67844pt x 682.80093pt>
+<images/py_ver.PNG, id=178, 917.67844pt x 682.80093pt>
 File: images/py_ver.PNG Graphic file (type png)
 <use images/py_ver.PNG>
-Package pdftex.def Info: images/py_ver.PNG  used on input line 141.
+Package pdftex.def Info: images/py_ver.PNG  used on input line 174.
 (pdftex.def)             Requested size: 323.9978pt x 241.06764pt.
-<images/py_1.PNG, id=140, 624.83438pt x 383.18156pt>
+<images/py_1.PNG, id=179, 624.83438pt x 383.18156pt>
 File: images/py_1.PNG Graphic file (type png)
 <use images/py_1.PNG>
-Package pdftex.def Info: images/py_1.PNG  used on input line 147.
+Package pdftex.def Info: images/py_1.PNG  used on input line 180.
 (pdftex.def)             Requested size: 323.9978pt x 198.69424pt.
-<images/py_2.PNG, id=141, 619.56468pt x 375.65344pt>
+<images/py_2.PNG, id=180, 619.56468pt x 375.65344pt>
 File: images/py_2.PNG Graphic file (type png)
 <use images/py_2.PNG>
-Package pdftex.def Info: images/py_2.PNG  used on input line 153.
+Package pdftex.def Info: images/py_2.PNG  used on input line 186.
 (pdftex.def)             Requested size: 323.9978pt x 196.44145pt.
-<images/py_3.PNG, id=142, 622.57594pt x 382.42876pt>
+<images/py_3.PNG, id=181, 622.57594pt x 382.42876pt>
 File: images/py_3.PNG Graphic file (type png)
 <use images/py_3.PNG>
-Package pdftex.def Info: images/py_3.PNG  used on input line 159.
+Package pdftex.def Info: images/py_3.PNG  used on input line 192.
 (pdftex.def)             Requested size: 323.9978pt x 199.02164pt.
- [4
+ [6
 
- <./images/web_py.PNG>] [5 <./images/py_ver.PNG> <./images/py_1.PNG>]
-<images/opencv_1.PNG, id=157, 264.23718pt x 20.32594pt>
+ <./images/web_py.PNG>] [7 <./images/py_ver.PNG> <./images/py_1.PNG>]
+<images/opencv_1.PNG, id=195, 264.23718pt x 20.32594pt>
 File: images/opencv_1.PNG Graphic file (type png)
 <use images/opencv_1.PNG>
-Package pdftex.def Info: images/opencv_1.PNG  used on input line 167.
+Package pdftex.def Info: images/opencv_1.PNG  used on input line 200.
 (pdftex.def)             Requested size: 251.9989pt x 19.38457pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 164--171
+Underfull \hbox (badness 10000) in paragraph at lines 197--204
 
  []
 
-[6 <./images/py_2.PNG> <./images/py_3.PNG>]
-<images/opencv_2.PNG, id=164, 529.98pt x 138.5175pt>
+[8 <./images/py_2.PNG> <./images/py_3.PNG>]
+<images/opencv_2.PNG, id=202, 529.98pt x 138.5175pt>
 File: images/opencv_2.PNG Graphic file (type png)
 <use images/opencv_2.PNG>
-Package pdftex.def Info: images/opencv_2.PNG  used on input line 175.
+Package pdftex.def Info: images/opencv_2.PNG  used on input line 208.
 (pdftex.def)             Requested size: 360.0pt x 94.09131pt.
-<images/opencv_3.PNG, id=165, 589.4522pt x 116.68594pt>
+<images/opencv_3.PNG, id=203, 589.4522pt x 116.68594pt>
 File: images/opencv_3.PNG Graphic file (type png)
 <use images/opencv_3.PNG>
-Package pdftex.def Info: images/opencv_3.PNG  used on input line 177.
+Package pdftex.def Info: images/opencv_3.PNG  used on input line 210.
 (pdftex.def)             Requested size: 360.0pt x 71.26555pt.
- [7 <./images/opencv_1.PNG> <./images/opencv_2.PNG> <./images/opencv_3.PNG>]
-Underfull \hbox (badness 10000) in paragraph at lines 183--184
+ [9 <./images/opencv_1.PNG> <./images/opencv_2.PNG> <./images/opencv_3.PNG>]
+Underfull \hbox (badness 10000) in paragraph at lines 216--217
 
  []
 
-<images/1.PNG, id=173, 78.2925pt x 18.0675pt>
+<images/1.PNG, id=211, 78.2925pt x 18.0675pt>
 File: images/1.PNG Graphic file (type png)
 <use images/1.PNG>
-Package pdftex.def Info: images/1.PNG  used on input line 189.
+Package pdftex.def Info: images/1.PNG  used on input line 222.
 (pdftex.def)             Requested size: 108.0011pt x 24.92433pt.
-<images/2.PNG, id=174, 264.23718pt x 34.62938pt>
+<images/2.PNG, id=212, 264.23718pt x 34.62938pt>
 File: images/2.PNG Graphic file (type png)
 <use images/2.PNG>
-Package pdftex.def Info: images/2.PNG  used on input line 195.
+Package pdftex.def Info: images/2.PNG  used on input line 228.
 (pdftex.def)             Requested size: 251.9989pt x 33.02557pt.
-<images/3.PNG, id=175, 282.30469pt x 19.57312pt>
+<images/3.PNG, id=213, 282.30469pt x 19.57312pt>
 File: images/3.PNG Graphic file (type png)
 <use images/3.PNG>
-Package pdftex.def Info: images/3.PNG  used on input line 201.
+Package pdftex.def Info: images/3.PNG  used on input line 234.
 (pdftex.def)             Requested size: 251.9989pt x 17.47227pt.
-<images/4.PNG, id=176, 301.125pt x 27.85406pt>
+<images/4.PNG, id=214, 301.125pt x 27.85406pt>
 File: images/4.PNG Graphic file (type png)
 <use images/4.PNG>
-Package pdftex.def Info: images/4.PNG  used on input line 208.
+Package pdftex.def Info: images/4.PNG  used on input line 241.
 (pdftex.def)             Requested size: 251.9989pt x 23.31094pt.
-<images/5.PNG, id=177, 300.3722pt x 17.31468pt>
+<images/5.PNG, id=215, 300.3722pt x 17.31468pt>
 File: images/5.PNG Graphic file (type png)
 <use images/5.PNG>
-Package pdftex.def Info: images/5.PNG  used on input line 214.
+Package pdftex.def Info: images/5.PNG  used on input line 247.
 (pdftex.def)             Requested size: 251.9989pt x 14.52678pt.
-<images/6.PNG, id=178, 347.04657pt x 51.19125pt>
+<images/6.PNG, id=216, 347.04657pt x 51.19125pt>
 File: images/6.PNG Graphic file (type png)
 <use images/6.PNG>
-Package pdftex.def Info: images/6.PNG  used on input line 220.
+Package pdftex.def Info: images/6.PNG  used on input line 253.
 (pdftex.def)             Requested size: 270.0pt x 39.82745pt.
-<images/full.PNG, id=179, 369.63094pt x 233.37187pt>
+<images/full.PNG, id=217, 369.63094pt x 233.37187pt>
 File: images/full.PNG Graphic file (type png)
 <use images/full.PNG>
-Package pdftex.def Info: images/full.PNG  used on input line 226.
+Package pdftex.def Info: images/full.PNG  used on input line 259.
 (pdftex.def)             Requested size: 270.0pt x 170.47043pt.
-<images/HASIL 1.PNG, id=180, 532.23843pt x 527.72156pt>
+<images/HASIL 1.PNG, id=218, 532.23843pt x 527.72156pt>
 File: images/HASIL 1.PNG Graphic file (type png)
 <use images/HASIL 1.PNG>
-Package pdftex.def Info: images/HASIL 1.PNG  used on input line 231.
+Package pdftex.def Info: images/HASIL 1.PNG  used on input line 264.
 (pdftex.def)             Requested size: 118.80066pt x 117.7901pt.
-<images/HASIL 2.PNG, id=181, 539.76656pt x 526.96875pt>
+<images/HASIL 2.PNG, id=219, 539.76656pt x 526.96875pt>
 File: images/HASIL 2.PNG Graphic file (type png)
 <use images/HASIL 2.PNG>
-Package pdftex.def Info: images/HASIL 2.PNG  used on input line 232.
-(pdftex.def)             Requested size: 118.80066pt x 115.98172pt.
+Package pdftex.def Info: images/HASIL 2.PNG  used on input line 265.
+(pdftex.def)             Requested size: 122.39868pt x 119.49559pt.
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--235
+Underfull \hbox (badness 10000) in paragraph at lines 218--268
 
+ []
+
+
+Overfull \hbox (11.2444pt too wide) in paragraph at lines 218--268
+\T1/lmr/m/n/10.95 meng-gu-nakan \T1/lmr/bx/n/10.95 cv2.rectangle \T1/lmr/m/n/10.95 jika berben-tuk persegi. Dan fungsi \T1/lmr/bx/n/10.95 cv2.imshow
  []
 
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-[8 <./images/1.PNG> <./images/2.PNG> <./images/3.PNG> <./images/4.PNG>] [9 <./images/5.PNG> <./images/6.PNG> <./images/full.PNG> <./images/HASIL 1.PNG> <./images/HASIL 2.PNG>] [10] (OpenCv_tutorial_benar.aux)
+[10 <./images/1.PNG> <./images/2.PNG> <./images/3.PNG> <./images/4.PNG>] [11 <./images/5.PNG> <./images/6.PNG> <./images/full.PNG> <./images/HASIL 1.PNG> <./images/HASIL 2.PNG>]
+Overfull \hbox (19.26361pt too wide) in paragraph at lines 271--273
+\T1/lmr/m/n/10.95 Prose per-tama un-tuk melakukan pen-ge-nalan wa-jah yaitu den-gan mengumpulkan
+ []
+
+[12] (OpenCv_tutorial_benar.aux)
 Package rerunfilecheck Info: File `OpenCv_tutorial_benar.out' has not changed.
-(rerunfilecheck)             Checksum: 6B0F0C970200809D051E8D4187EAA2AE;1656.
+(rerunfilecheck)             Checksum: 930032E011F9FF3FF4264E755FE123F9;2145.
  ) 
 Here is how much of TeX's memory you used:
- 10134 strings out of 477992
- 166493 string characters out of 2826050
- 472001 words of memory out of 3000000
- 28684 multiletter control sequences out of 15000+600000
+ 10159 strings out of 477992
+ 166696 string characters out of 2826050
+ 473004 words of memory out of 3000000
+ 28687 multiletter control sequences out of 15000+600000
  548807 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,715b,463s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,8n,77p,715b,559s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on OpenCv_tutorial_benar.pdf (13 pages, 2025687 bytes).
+Output written on OpenCv_tutorial_benar.pdf (15 pages, 2040064 bytes).
 PDF statistics:
- 273 PDF objects out of 1000 (max. 8388607)
- 49 named destinations out of 1000 (max. 500000)
- 166 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 318 PDF objects out of 1000 (max. 8388607)
+ 71 named destinations out of 1000 (max. 500000)
+ 190 words of extra memory for PDF output out of 10000 (max. 10000000)
 

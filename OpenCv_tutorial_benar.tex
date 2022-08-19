@@ -9,9 +9,7 @@
 \usepackage[utf8]{inputenc}
 \usepackage{lmodern}
 \usepackage[inline,shortlabels]{enumitem}
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
-% Source: http://en.wikibooks.org/wiki/LaTeX/Hyperlinks %
-%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
 \usepackage{hyperref}
 \usepackage{graphicx}
 \usepackage[english]{babel}
@@ -84,14 +82,12 @@
 \section{Artificial Intelligence Pada Pengenalan Wajah}
  Dilansir dari Stanford Computer science, Artificial Intelligence(AI) atau kecerdasan buatan adalah ilmu dan rekayasa pembuatan mesin cerdas, melibatkan mekanisme untuk menjalankan suatu tugas menggunakan komputer.  Sehingga artificial intelligence merupakan sebuah teknologi yang memungkinkan sistem komputer, perangkat lunak, program dan robot untuk “berpikir” secara cerdas layaknya manusia. Kecerdasan buatan suatu mesin dibuat oleh manusia melalui algoritma pemrograman yang kompleks.\footnote{Mustofa, Zaenal. \emph{Artificial Intelligence (AI): Pengertian, Perkembangan, Cara Kerja, Dan Dampaknya}.Universitas STEKOM} \\
 \\Secara garis besar, AI dapat melakukan salah satu dari keempat faktor berikut:
-
-- \emph{Acting Humanly} , sistem bertindak layaknya manusia.
-
-- \emph{Thinking Humanly} , sistem dapat berpikir seperti manusia.
-
-- \emph{Think Rationally} , sistem dapat berpikir secara rasional.
-
-- \emph{Act Rationally} , sistem mampu bertindak secara rasional.\\
+\begin{enumerate}[a.]
+    \item \emph{Acting Humanly} , sistem bertindak layaknya manusia.
+    \item \emph{Thinking Humanly} , sistem dapat berpikir seperti manusia.
+    \item \emph{Think Rationally} , sistem dapat berpikir secara rasional.
+    \item \emph{Act Rationally} , sistem mampu bertindak secara rasional.
+\end{enumerate}
 
 Pengenalan dan identifikasi wajah merupakan contoh sistem penerapan konsep Artificial Intelligence menggunakan biometrik wajah yang terus berkembang pada bidang \emph{computer vision}. Kecerdasan buatan ini digunakan secara \emph{real-time} untuk menangkap dan mengenali wajah seseorang pada kamera.
 
@@ -123,6 +119,43 @@ Menurur Haisong Gu, Qiang Ji, dan Zhiwei Zu (2002), pengenalan wajah umumnya mel
 
 Ada beberapa algoritma untuk melakukan pencocokan pada proses pengenalan wajah yang disediakan oleh openCV. Local Binary Pattern Histogram (LBPH) adalah salah satu dari tiga algoritma pengenalan wajah bawaan pada library OpenCV antara lain Eigenface,
 Fisherfaces, dan LBPH. Dibandingkan dengan kedua algoritma tersebut, LBPH tidak hanya dapat mengenali muka depan, tetapi juga mengenali muka samping yang lebih fleksibel. Metode ini bekerja dengan membandingkan dan mencocokan histogram yang sudah diekstraksi dengan citra wajah yang sudah ada pada database/dataset.
+
+\newpage
+\chapter{Model Algoritma  Face Recognition Pada OpenCV}
+Ada beberapa model algoritma yang sudah disediakan openCV untuk melakukan pengenalan wajah, diantaranya adalah
+Eigenface, Fisherfaces, dan \emph{Local binary Pattern Histogram}(LBPH). Berikut penjelasan untuk perbedaan dari ketiga model algoritma yang disediakan olen openCV.
+\section{Eigenface}
+
+Eigenface adalah salah satu algoritma pengenalan wajah yang berdasarkan
+pada Principle Component Analysis (PCA) yang dikembangkan di MIT.
+Algoritma EigenFace secara keseluruhan cukup sederhana, Training Image
+direpresentasikan dalam sebuah vektor flat (gabungan vektor) dan digabung
+bersama-sama menjadi sebuah matriks tunggal. Eigen Vector kemudian
+diekstraksi dan disimpan dalam file temporary atau database. Training image
+kemudian diproyeksikan dalam feature space yang di namai face space yang
+ditentukan oleh eigen vektor(Mukti, 2008).\footnote{Alam, R.G guntur, dkk.\emph{MPLEMENTASI ALGORITMA EIGENFACE UNTUK FACE
+RECOGNITION PADA OBJECK FOTO ID CARD}.Telematik : Vol 7, No 2, April 2015.}
+%http://repository.unib.ac.id/18865/1/4.%20IMPLEMENTASI%20ALGORITMA%20EIGENFACE%20UNTUK%20FACE.pdf
+
+Principal Component Analysis (PCA) atau disebut juga transformasi KarhunenLoeve adalah tekhnik yang digunakan untuk
+menyederhanakan suatu data, dengan cara mentransormasi linear sehingga terbentuk
+system koordinat baru dengan variansi maksimum. PCA dapat digunakan untuk
+mereduksi dimensi suatu data tanpa mengurangi karakteristik data tersebut secara signifikan (Cahyadi, 2007: 93)
+\footnote{Firliana, Lina, dkk.\emph{Implementasi Principal Component Analysis (PCA) Untuk
+Pengenalan Wajah Manusia}. Universitas Nusantara}\\
+
+Berikut proses langkah-langkah pengenalan wajah menggunakan model algoritma Eigenface.
+\begin{enumerate}[1. ]
+    \item Penyusunan flat vektor matriks
+    \item Mengambil nilai tengah dari kumpulan matriks
+    \item Menghitung selisih antara nilai matriks \emph{training image} dengan nilai tengah
+    \item Menghitung nilai matriks kovarian
+    \item Menghitung nilai \emph{eigenvalue} dan \emph{eigenvector}
+    \item Menghitung nilai \emph{eigenface}
+    \item Proses indentifikasi wajah 
+\end{enumerate}
+
+\section{Fisherfaces}
 
 \chapter{Implementasi Sistem}
 \section{Proses Instalasi}
@@ -208,13 +241,13 @@ kode untuk mengubah warna citra menjadi hitam putih menggunakan \textbf{cv2.cvtC
     \includegraphics[width=0.7\linewidth]{images/4.PNG}
     \caption{Membuka video dan ubah warna cira}
 \end{figure}
-\\- Fungsi untuk mendeteksi wajah, menggunakan fungsi \textbf{detectMultiScale} dengan memproses fitur haarcascade
+\\- Fungsi untuk mendeteksi wajah, menggunakan fungsi \textbf{detectMultiScale}
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.7\linewidth]{images/5.PNG}
     \caption{Deteksi wajah}
 \end{figure}
-- Fungsi untuk membuat bingkai tanda jika wajah terdeteksi oleh sistem menggunakan \textbf{cv2.rectangle} jika berbentuk persegi. Dan fungsi \textbf{cv2.imshow} untuk menjalankan sistem yang telah dibuat.
+\\- Fungsi untuk membuat bingkai tanda jika wajah terdeteksi oleh sistem menggunakan \textbf{cv2.rectangle} jika berbentuk persegi. Dan fungsi \textbf{cv2.imshow} untuk menjalankan sistem yang telah dibuat.
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.75\linewidth]{images/6.PNG}
@@ -229,11 +262,20 @@ kode untuk mengubah warna citra menjadi hitam putih menggunakan \textbf{cv2.cvtC
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.33\linewidth]{images/HASIL 1.PNG}
-    \includegraphics[width=0.33\linewidth]{images/HASIL 2.PNG}
+    \includegraphics[width=0.34\linewidth]{images/HASIL 2.PNG}
     \caption{Hasil deteksi wajah}
 \end{figure}
 
 \newpage
 \section{Pembuatan Sistem Face Recognition}
+Prose pertama untuk melakukan pengenalan wajah yaitu dengan mengumpulkan dataset yang akan di \emph{training} dengan menangkap citra wajah pada saat awal deteksi wajah yang akan disimpan dan dikumpulkan berdasarkan id yang telah dimasukkan user. Setelah dataset terkumpul, selanjutnya
+sistem akan melakukan \emph{training data} untuk mengenali wajah berdasarkan id. Kemudian proses penenalan wajah pun dilakukan dengan mendeteksi wajah mengunakan algoritma Haar-cascade classifier, lalu sistem akan melakukan pencocokan dengan menggunakan fitur LBPH untuk mencocokan wajah yang terdeteksi dengan dataset yang sudah di\emph{training} sebelumnya.
+\begin{enumerate}[- ]
+\item Mengumpulkan dataset dengan metode \emph{Haar-cascade classifier}
+\item Proses training dataset
+\item Proses pengenalan wajah dengan metode \emph{Local Binary Patter Histogram(LBPH)}
+\item Testing aplikasi
+\end{enumerate}
+
 
 \end{document}

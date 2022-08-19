@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1660796624 "d:/Nurul/BukuPanduan-OpenCV/OpenCv_tutorial_benar.tex" "OpenCv_tutorial_benar.pdf" "OpenCv_tutorial_benar" 1660796626
+["pdflatex"] 1660878009 "d:/Nurul/BukuPanduan-OpenCV/OpenCv_tutorial_benar.tex" "OpenCv_tutorial_benar.pdf" "OpenCv_tutorial_benar" 1660878011
   "C:/Users/Tikomdik/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1660794094 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Tikomdik/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1660291521 10361023 b253c0b3c1eb9b4a4f160b9e952ad327 ""
   "C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -107,12 +107,12 @@
   "C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "OpenCv_tutorial_benar.aux" 1660796625 4214 9946e5d3ace745d867596fdc0ffa51ec "pdflatex"
-  "OpenCv_tutorial_benar.lof" 1660796625 1603 f887e458598ca44d281c1377ad3bd384 "pdflatex"
-  "OpenCv_tutorial_benar.out" 1660796625 1656 6b0f0c970200809d051e8d4187eaa2ae "pdflatex"
-  "OpenCv_tutorial_benar.tex" 1660796623 14067 e31cacb36ee164810cdebc3b320aea52 ""
-  "OpenCv_tutorial_benar.toc" 1660796625 858 ace23fcb246c9d6889f5da84da18af02 "pdflatex"
-  "d:/Nurul/BukuPanduan-OpenCV/OpenCv_tutorial_benar.tex" 1660796623 14067 e31cacb36ee164810cdebc3b320aea52 ""
+  "OpenCv_tutorial_benar.aux" 1660878011 4662 e51ff8b17aa1d1b25931678dc5ce1f2c "pdflatex"
+  "OpenCv_tutorial_benar.lof" 1660878011 1631 0cccd49ba1ed41460f9217e62df99df9 "pdflatex"
+  "OpenCv_tutorial_benar.out" 1660878011 2145 930032e011f9ff3ff4264e755fe123f9 "pdflatex"
+  "OpenCv_tutorial_benar.tex" 1660878007 17039 bbc108ec4686a855d73d2e91d0aee2f6 ""
+  "OpenCv_tutorial_benar.toc" 1660878011 1099 72ffade49c2a4ffe482c743ba33edcf1 "pdflatex"
+  "d:/Nurul/BukuPanduan-OpenCV/OpenCv_tutorial_benar.tex" 1660878007 17039 bbc108ec4686a855d73d2e91d0aee2f6 ""
   "images/1.PNG" 1660266810 773 ec85e0e4965b265b79a63d0bc1ad76b6 ""
   "images/2.PNG" 1660266810 2754 dc6308925c7f4eeb09c6700f6dacb38e ""
   "images/3.PNG" 1660266810 2182 08fa7c322e8abb999d9b6639b7f34406 ""
