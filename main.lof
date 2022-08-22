@@ -1,20 +1,25 @@
 \babel@toc {english}{}\relax 
 \addvspace {10\p@ }
 \addvspace {10\p@ }
+\contentsline {figure}{\numberline {2.1}{\ignorespaces Proses algoritma fisherface}}{6}{figure.2.1}%
 \addvspace {10\p@ }
-\contentsline {figure}{\numberline {3.1}{\ignorespaces Website resmi python}}{6}{figure.3.1}%
-\contentsline {figure}{\numberline {3.2}{\ignorespaces Pilihan Versi Python}}{7}{figure.3.2}%
-\contentsline {figure}{\numberline {3.3}{\ignorespaces Instalator python}}{7}{figure.3.3}%
-\contentsline {figure}{\numberline {3.4}{\ignorespaces Pilihan fitur}}{8}{figure.3.4}%
-\contentsline {figure}{\numberline {3.5}{\ignorespaces Pilihan lanjutan dan penyesuaian lokasi}}{8}{figure.3.5}%
-\contentsline {figure}{\numberline {3.6}{\ignorespaces Instalasi openCV}}{9}{figure.3.6}%
-\contentsline {figure}{\numberline {3.7}{\ignorespaces Cek openCV pada python IDLE}}{9}{figure.3.7}%
-\contentsline {figure}{\numberline {3.8}{\ignorespaces Cek openCV pada CMD}}{9}{figure.3.8}%
-\contentsline {figure}{\numberline {3.9}{\ignorespaces Memasukan library openCV}}{10}{figure.3.9}%
-\contentsline {figure}{\numberline {3.10}{\ignorespaces Memasukan library openCV}}{10}{figure.3.10}%
-\contentsline {figure}{\numberline {3.11}{\ignorespaces Memasukan video}}{10}{figure.3.11}%
-\contentsline {figure}{\numberline {3.12}{\ignorespaces Membuka video dan ubah warna cira}}{10}{figure.3.12}%
-\contentsline {figure}{\numberline {3.13}{\ignorespaces Deteksi wajah}}{11}{figure.3.13}%
-\contentsline {figure}{\numberline {3.14}{\ignorespaces Kode bingkai wajah}}{11}{figure.3.14}%
-\contentsline {figure}{\numberline {3.15}{\ignorespaces Kode deteksi wajah}}{11}{figure.3.15}%
-\contentsline {figure}{\numberline {3.16}{\ignorespaces Hasil deteksi wajah}}{11}{figure.3.16}%
+\contentsline {figure}{\numberline {3.1}{\ignorespaces Website resmi python}}{7}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces Pilihan Versi Python}}{8}{figure.3.2}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces Instalator python}}{8}{figure.3.3}%
+\contentsline {figure}{\numberline {3.4}{\ignorespaces Pilihan fitur}}{9}{figure.3.4}%
+\contentsline {figure}{\numberline {3.5}{\ignorespaces Pilihan lanjutan dan penyesuaian lokasi}}{9}{figure.3.5}%
+\contentsline {figure}{\numberline {3.6}{\ignorespaces Instalasi openCV}}{10}{figure.3.6}%
+\contentsline {figure}{\numberline {3.7}{\ignorespaces Cek openCV pada python IDLE}}{10}{figure.3.7}%
+\contentsline {figure}{\numberline {3.8}{\ignorespaces Cek openCV pada CMD}}{10}{figure.3.8}%
+\contentsline {figure}{\numberline {3.9}{\ignorespaces Memasukan library openCV}}{11}{figure.3.9}%
+\contentsline {figure}{\numberline {3.10}{\ignorespaces Memasukan library openCV}}{11}{figure.3.10}%
+\contentsline {figure}{\numberline {3.11}{\ignorespaces Memasukan video}}{11}{figure.3.11}%
+\contentsline {figure}{\numberline {3.12}{\ignorespaces Membuka video dan ubah warna cira}}{11}{figure.3.12}%
+\contentsline {figure}{\numberline {3.13}{\ignorespaces Deteksi wajah}}{12}{figure.3.13}%
+\contentsline {figure}{\numberline {3.14}{\ignorespaces Kode bingkai wajah}}{12}{figure.3.14}%
+\contentsline {figure}{\numberline {3.15}{\ignorespaces Kode deteksi wajah}}{12}{figure.3.15}%
+\contentsline {figure}{\numberline {3.16}{\ignorespaces Hasil deteksi wajah}}{12}{figure.3.16}%
+\contentsline {figure}{\numberline {3.17}{\ignorespaces Memasukan library openCV}}{13}{figure.3.17}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Proses face detection}}{13}{figure.3.18}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Tambah variabel}}{13}{figure.3.19}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Membaca video dan merubah warna citra}}{14}{figure.3.20}%

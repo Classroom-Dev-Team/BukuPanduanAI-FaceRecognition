@@ -26,4 +26,18 @@ Berikut proses langkah-langkah pengenalan wajah menggunakan model algoritma Eige
     \item Proses indentifikasi wajah 
 \end{enumerate}
 
+\section{Local Binary Pattern Histogram(LBPH)}
+Local Binary Patter(LBP) adalah salah satu dari metode yang  terkenal dalam mengenali sebuah objek. Dalam hal ini, cara yang digunakan adalah membedakan objek dengan background. 
+Local Binary Patter Histogram(LBPH) adalah sebuah kombinasi algoritma antara LBP dengan Histogram of Oriented Gradients(HOG)
+
+\newpage
 \section{Fisherfaces}
+Algoritma Fisherface ini merupakan gabungan dari metode Principal Component Analys (PCA) dengan Fisher’s Linear Discriminant (FLD). FLD merupakan salah satu contoh metode class specific, 
+karena prinsip dasar metode ini berusaha untuk membentuk jarak (scatter) antar kelas dan intra kelas sehingga dapat menghasilkan klasifikasi yang lebih baik, dan mereduksi dimensi yang didapat dari perhitungan PCA. 
+Semakin besar rasio antar kelas, vector ciri yang dihasilkan semakin tidak sensitive terhadap perubahan ekspresi maupun perubahan pencahayaan, sehingga dapat menghasilkan klasifikasi yang lebih baik. 
+\footnote{Amalia, Nurul. Perbandingan Algoritma Fisherface dan Algoritma Local Binary Pattern Untuk Pengenalan Wajah. Universitas Budi Darma, Medan}
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.7\linewidth]{images/algoritma_fisherface.PNG}
+    \caption{Proses algoritma fisherface}
+\end{figure}
