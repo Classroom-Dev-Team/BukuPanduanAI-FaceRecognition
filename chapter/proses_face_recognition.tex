@@ -69,4 +69,59 @@ menampilkan video atau kamera yang aka dideteksi dan diambil gambar untuk datase
     \caption{Pengambilan dataset}
 \end{figure}
 
+\item Proses training dataset
+
+- Import library cv2, numpy, Image from PIL (Pillow) library, dan os
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.4\linewidth]{images/train_1.PNG}
+    \caption{Pengambilan dataset}
+\end{figure}
+
+- pada baris ke-1, memasukan nama direktori dataset pada variabel path 
+
+Pada baris ke-2, untuk pengenalan wajah, menggunakan model algoritma LBPH yang sudah tersedia pada openCV
+
+Pada bari ke-3,  Proses face detection, untuk melakukan proses deteksi wajah akan menggunakan algoritma haarcascade
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/train_2.PNG}
+    \caption{Pengambilan dataset}
+\end{figure}
+
+- Membuat method atau fungsi untuk mendapatkan image dataset sebagai data training agar dikenali oleh bahasa komputer
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/train_3.PNG}
+    \caption{Pengambilan dataset}
+\end{figure}\\
+Memasukan direktori dataset pada variabel path menggunakan \textbf{os.path.join()} kedalam variabel imagePath.
+Lalu kumpulan image training akan diubah menggunakan library PIL menjadi sebuah array. Setelah itu, array data training akan dibuat oleh numpy.
+Dimana array yang diambil merupakan id dan juga faceSample.
+\newpage
+- Training data
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/train_4.PNG}
+    \caption{Pengambilan dataset}
+\end{figure}\\
+Fungsi "getImagesAndLabels (path)", akan mengambil semua foto di direktori: "dataset/", mengembalikan 2 array: "Ids" dan "faces". 
+Dengan array tersebut sebagai input, data akan di training menggunakan fungsi \textbf{recognizer.train()}
+Untuk hasil training data akan disimpan dalam bentuk \textbf{.yml} pada direktori recognizers dengan fungsi \textbf{recognizer.write()}
+
+- Proses training data
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.9\linewidth]{images/train_data.PNG}
+    \caption{Pengambilan dataset}
+\end{figure}
+
+- Hasil training data berbentuk file \textbf{.yml}
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1\linewidth]{images/hasil_train.PNG}
+    \caption{Pengambilan dataset}
+\end{figure}
+
+\item Proses pengenalan wajah
 \end{enumerate}
