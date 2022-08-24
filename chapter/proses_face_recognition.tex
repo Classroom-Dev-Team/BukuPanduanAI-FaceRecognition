@@ -38,6 +38,35 @@ dengan fungsi \textbf{cv2.cvtColor}
     \caption{Membaca video dan merubah warna citra}
 \end{figure}
 
-\item Proses training dataset
-\item Testing aplikasi: Proses pengenalan wajah dengan metode \emph{Local Binary Patter Histogram(LBPH)}
+- Pada baris pertama fungsi untuk deteksi wajah dengan fungsi \textbf{detectMultiScale()}. 
+Pada baris selanjutnya ada fungsi membuat bingkai \textbf{cv2.rectangle} lalu ada pengulangan untuk jumlah gambar yang ditangkat
+, lalu ada \textbf{cv2.imwrite} untuk menyimpan gambar data direktori dataset yang telah ditentukan, da \textbf{cv2.imshow} untuk 
+menampilkan video atau kamera yang aka dideteksi dan diambil gambar untuk dataset.
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.85\linewidth]{images/fr_5.PNG}
+    \caption{Penyimpanan dataset}
+\end{figure}
+
+- Menentukan jumlah gambar yang akan tersimpan pada dataset
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.5\linewidth]{images/fr_6.PNG}
+    \caption{Mengatur jumlah gambar yang diambil}
+\end{figure}
+\newpage
+- Keseluruhan kode program untuk pengambilan dataset
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=0.85\linewidth]{images/fr_full.PNG}
+    \caption{Kode pengambilan dataset}
+\end{figure}
+
+- Percobaan pengambilan dataset untuk tiga ID menggunakan masukan video
+\begin{figure}[h!]
+    \centering
+    \includegraphics[width=1.2\linewidth]{images/dataset.PNG}
+    \caption{Pengambilan dataset}
+\end{figure}
+
 \end{enumerate}
