@@ -13,3 +13,4 @@
 \contentsline {subsection}{\numberline {3.1.2}Instalasi OpenCV}{10}{subsection.3.1.2}%
 \contentsline {section}{\numberline {3.2}Pembuatan Sistem Face Detection}{11}{section.3.2}%
 \contentsline {section}{\numberline {3.3}Pembuatan Sistem Face Recognition}{13}{section.3.3}%
+\contentsline {subsection}{\numberline {3.3.1}Recognition pada masukan video}{13}{subsection.3.3.1}%

@@ -20,16 +20,27 @@
 \contentsline {figure}{\numberline {3.15}{\ignorespaces Kode deteksi wajah}}{12}{figure.3.15}%
 \contentsline {figure}{\numberline {3.16}{\ignorespaces Hasil deteksi wajah}}{12}{figure.3.16}%
 \contentsline {figure}{\numberline {3.17}{\ignorespaces Memasukan library openCV}}{13}{figure.3.17}%
-\contentsline {figure}{\numberline {3.18}{\ignorespaces Proses face detection}}{13}{figure.3.18}%
-\contentsline {figure}{\numberline {3.19}{\ignorespaces Tambah variabel}}{13}{figure.3.19}%
-\contentsline {figure}{\numberline {3.20}{\ignorespaces Membaca video dan merubah warna citra}}{14}{figure.3.20}%
-\contentsline {figure}{\numberline {3.21}{\ignorespaces Penyimpanan dataset}}{14}{figure.3.21}%
-\contentsline {figure}{\numberline {3.22}{\ignorespaces Mengatur jumlah gambar yang diambil}}{14}{figure.3.22}%
-\contentsline {figure}{\numberline {3.23}{\ignorespaces Kode pengambilan dataset}}{15}{figure.3.23}%
-\contentsline {figure}{\numberline {3.24}{\ignorespaces Pengambilan dataset}}{15}{figure.3.24}%
-\contentsline {figure}{\numberline {3.25}{\ignorespaces Pengambilan dataset}}{16}{figure.3.25}%
+\contentsline {figure}{\numberline {3.18}{\ignorespaces Proses face detection dengan masukan video}}{13}{figure.3.18}%
+\contentsline {figure}{\numberline {3.19}{\ignorespaces Proses face detection dengan kamera}}{13}{figure.3.19}%
+\contentsline {figure}{\numberline {3.20}{\ignorespaces Tambah variabel}}{14}{figure.3.20}%
+\contentsline {figure}{\numberline {3.21}{\ignorespaces Membaca video dan merubah warna citra}}{14}{figure.3.21}%
+\contentsline {figure}{\numberline {3.22}{\ignorespaces Penyimpanan dataset}}{14}{figure.3.22}%
+\contentsline {figure}{\numberline {3.23}{\ignorespaces Mengatur jumlah gambar yang diambil}}{14}{figure.3.23}%
+\contentsline {figure}{\numberline {3.24}{\ignorespaces Kode pengambilan dataset}}{15}{figure.3.24}%
+\contentsline {figure}{\numberline {3.25}{\ignorespaces Pengambilan dataset}}{15}{figure.3.25}%
 \contentsline {figure}{\numberline {3.26}{\ignorespaces Pengambilan dataset}}{16}{figure.3.26}%
 \contentsline {figure}{\numberline {3.27}{\ignorespaces Pengambilan dataset}}{16}{figure.3.27}%
-\contentsline {figure}{\numberline {3.28}{\ignorespaces Pengambilan dataset}}{17}{figure.3.28}%
+\contentsline {figure}{\numberline {3.28}{\ignorespaces Pengambilan dataset}}{16}{figure.3.28}%
 \contentsline {figure}{\numberline {3.29}{\ignorespaces Pengambilan dataset}}{17}{figure.3.29}%
 \contentsline {figure}{\numberline {3.30}{\ignorespaces Pengambilan dataset}}{17}{figure.3.30}%
+\contentsline {figure}{\numberline {3.31}{\ignorespaces Pengambilan dataset}}{17}{figure.3.31}%
+\contentsline {figure}{\numberline {3.32}{\ignorespaces Import Library}}{17}{figure.3.32}%
+\contentsline {figure}{\numberline {3.33}{\ignorespaces Pengenalan wajah}}{18}{figure.3.33}%
+\contentsline {figure}{\numberline {3.34}{\ignorespaces Deteksi wajah}}{18}{figure.3.34}%
+\contentsline {figure}{\numberline {3.35}{\ignorespaces Font dan ID}}{18}{figure.3.35}%
+\contentsline {figure}{\numberline {3.36}{\ignorespaces Array nama}}{18}{figure.3.36}%
+\contentsline {figure}{\numberline {3.37}{\ignorespaces Input video/kamera serta mengatur ukuran frame}}{18}{figure.3.37}%
+\contentsline {figure}{\numberline {3.38}{\ignorespaces Membaca dan perubahan citra}}{19}{figure.3.38}%
+\contentsline {figure}{\numberline {3.39}{\ignorespaces Mengenali kecocokan data}}{19}{figure.3.39}%
+\contentsline {figure}{\numberline {3.40}{\ignorespaces Menampilkan kamera atau video serta akhir program}}{19}{figure.3.40}%
+\contentsline {figure}{\numberline {3.41}{\ignorespaces Hasil recognition video}}{20}{figure.3.41}%
