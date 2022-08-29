@@ -754,13 +754,6 @@ INPUT .\images\fr_2.PNG
 INPUT .\images\fr_2.PNG
 INPUT .\images\fr_2.PNG
 INPUT .\images\fr_2.PNG
-INPUT .\images\fr_camera.PNG
-INPUT .\images\fr_camera.PNG
-INPUT images\fr_camera.PNG
-INPUT .\images\fr_camera.PNG
-INPUT .\images\fr_camera.PNG
-INPUT .\images\fr_camera.PNG
-INPUT .\images\fr_camera.PNG
 INPUT .\images\fr_3.PNG
 INPUT .\images\fr_3.PNG
 INPUT images\fr_3.PNG
@@ -915,6 +908,52 @@ INPUT .\images\Hasil_recog.PNG
 INPUT .\images\Hasil_recog.PNG
 INPUT .\images\Hasil_recog.PNG
 INPUT .\images\Hasil_recog.PNG
+INPUT .\chapter\Face Recognition\face_recognition_camera.tex
+INPUT chapter\Face Recognition\face_recognition_camera.tex
+INPUT .\chapter\Face Recognition\face_recognition_camera.tex
+INPUT chapter\Face Recognition\face_recognition_camera.tex
+INPUT .\images\fr_cam1.PNG
+INPUT .\images\fr_cam1.PNG
+INPUT images\fr_cam1.PNG
+INPUT .\images\fr_cam1.PNG
+INPUT .\images\fr_cam1.PNG
+INPUT .\images\fr_cam1.PNG
+INPUT .\images\fr_cam1.PNG
+INPUT .\images\fr_cam2.PNG
+INPUT .\images\fr_cam2.PNG
+INPUT images\fr_cam2.PNG
+INPUT .\images\fr_cam2.PNG
+INPUT .\images\fr_cam2.PNG
+INPUT .\images\fr_cam2.PNG
+INPUT .\images\fr_cam2.PNG
+INPUT .\images\fr_cam3.PNG
+INPUT .\images\fr_cam3.PNG
+INPUT images\fr_cam3.PNG
+INPUT .\images\fr_cam3.PNG
+INPUT .\images\fr_cam3.PNG
+INPUT .\images\fr_cam3.PNG
+INPUT .\images\fr_cam3.PNG
+INPUT .\images\fr_cam4.PNG
+INPUT .\images\fr_cam4.PNG
+INPUT images\fr_cam4.PNG
+INPUT .\images\fr_cam4.PNG
+INPUT .\images\fr_cam4.PNG
+INPUT .\images\fr_cam4.PNG
+INPUT .\images\fr_cam4.PNG
+INPUT .\images\fr_cam5.PNG
+INPUT .\images\fr_cam5.PNG
+INPUT images\fr_cam5.PNG
+INPUT .\images\fr_cam5.PNG
+INPUT .\images\fr_cam5.PNG
+INPUT .\images\fr_cam5.PNG
+INPUT .\images\fr_cam5.PNG
+INPUT .\images\fr_cam6.PNG
+INPUT .\images\fr_cam6.PNG
+INPUT images\fr_cam6.PNG
+INPUT .\images\fr_cam6.PNG
+INPUT .\images\fr_cam6.PNG
+INPUT .\images\fr_cam6.PNG
+INPUT .\images\fr_cam6.PNG
 INPUT main.aux
 INPUT .\main.out
 INPUT .\main.out
