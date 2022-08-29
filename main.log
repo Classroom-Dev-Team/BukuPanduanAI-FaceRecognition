@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  29 AUG 2022 09:13
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  29 AUG 2022 14:15
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -389,7 +389,7 @@ Overfull \hbox (17.55054pt too wide) in paragraph at lines 28--30
  []
 
 [5]
-<images/algoritma_fisherface.PNG, id=257, 293.59688pt x 356.83313pt>
+<images/algoritma_fisherface.PNG, id=273, 293.59688pt x 356.83313pt>
 File: images/algoritma_fisherface.PNG Graphic file (type png)
 <use images/algoritma_fisherface.PNG>
 Package pdftex.def Info: images/algoritma_fisherface.PNG  used on input line 39.
@@ -401,27 +401,27 @@ LaTeX Font Info:    Trying to load font information for T1+lmtt on input line 6.
  (C:\Users\Tikomdik\AppData\Local\Programs\MiKTeX\tex/latex/lm\t1lmtt.fd
 File: t1lmtt.fd 2015/05/01 v1.6.1 Font defs for Latin Modern
 )
-<images/web_py.PNG, id=266, 956.07187pt x 680.5425pt>
+<images/web_py.PNG, id=282, 956.07187pt x 680.5425pt>
 File: images/web_py.PNG Graphic file (type png)
 <use images/web_py.PNG>
 Package pdftex.def Info: images/web_py.PNG  used on input line 9.
 (pdftex.def)             Requested size: 323.9978pt x 230.62334pt.
-<images/py_ver.PNG, id=267, 917.67844pt x 682.80093pt>
+<images/py_ver.PNG, id=283, 917.67844pt x 682.80093pt>
 File: images/py_ver.PNG Graphic file (type png)
 <use images/py_ver.PNG>
 Package pdftex.def Info: images/py_ver.PNG  used on input line 15.
 (pdftex.def)             Requested size: 323.9978pt x 241.06764pt.
-<images/py_1.PNG, id=268, 624.83438pt x 383.18156pt>
+<images/py_1.PNG, id=284, 624.83438pt x 383.18156pt>
 File: images/py_1.PNG Graphic file (type png)
 <use images/py_1.PNG>
 Package pdftex.def Info: images/py_1.PNG  used on input line 21.
 (pdftex.def)             Requested size: 323.9978pt x 198.69424pt.
-<images/py_2.PNG, id=269, 619.56468pt x 375.65344pt>
+<images/py_2.PNG, id=285, 619.56468pt x 375.65344pt>
 File: images/py_2.PNG Graphic file (type png)
 <use images/py_2.PNG>
 Package pdftex.def Info: images/py_2.PNG  used on input line 27.
 (pdftex.def)             Requested size: 323.9978pt x 196.44145pt.
-<images/py_3.PNG, id=270, 622.57594pt x 382.42876pt>
+<images/py_3.PNG, id=286, 622.57594pt x 382.42876pt>
 File: images/py_3.PNG Graphic file (type png)
 <use images/py_3.PNG>
 Package pdftex.def Info: images/py_3.PNG  used on input line 33.
@@ -429,7 +429,7 @@ Package pdftex.def Info: images/py_3.PNG  used on input line 33.
  [7
 
  <./images/web_py.PNG>] [8 <./images/py_ver.PNG> <./images/py_1.PNG>]
-<images/opencv_1.PNG, id=284, 264.23718pt x 20.32594pt>
+<images/opencv_1.PNG, id=300, 264.23718pt x 20.32594pt>
 File: images/opencv_1.PNG Graphic file (type png)
 <use images/opencv_1.PNG>
 Package pdftex.def Info: images/opencv_1.PNG  used on input line 41.
@@ -440,12 +440,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 38--45
  []
 
 [9 <./images/py_2.PNG> <./images/py_3.PNG>]
-<images/opencv_2.PNG, id=292, 529.98pt x 138.5175pt>
+<images/opencv_2.PNG, id=308, 529.98pt x 138.5175pt>
 File: images/opencv_2.PNG Graphic file (type png)
 <use images/opencv_2.PNG>
 Package pdftex.def Info: images/opencv_2.PNG  used on input line 49.
 (pdftex.def)             Requested size: 360.0pt x 94.09131pt.
-<images/opencv_3.PNG, id=293, 589.4522pt x 116.68594pt>
+<images/opencv_3.PNG, id=309, 589.4522pt x 116.68594pt>
 File: images/opencv_3.PNG Graphic file (type png)
 <use images/opencv_3.PNG>
 Package pdftex.def Info: images/opencv_3.PNG  used on input line 51.
@@ -455,47 +455,47 @@ Underfull \hbox (badness 10000) in paragraph at lines 3--4
 
  []
 
-<images/1.PNG, id=301, 78.2925pt x 18.0675pt>
+<images/1.PNG, id=317, 78.2925pt x 18.0675pt>
 File: images/1.PNG Graphic file (type png)
 <use images/1.PNG>
 Package pdftex.def Info: images/1.PNG  used on input line 9.
 (pdftex.def)             Requested size: 108.0011pt x 24.92433pt.
-<images/2.PNG, id=302, 264.23718pt x 34.62938pt>
+<images/2.PNG, id=318, 264.23718pt x 34.62938pt>
 File: images/2.PNG Graphic file (type png)
 <use images/2.PNG>
 Package pdftex.def Info: images/2.PNG  used on input line 15.
 (pdftex.def)             Requested size: 251.9989pt x 33.02557pt.
-<images/3.PNG, id=303, 282.30469pt x 19.57312pt>
+<images/3.PNG, id=319, 282.30469pt x 19.57312pt>
 File: images/3.PNG Graphic file (type png)
 <use images/3.PNG>
 Package pdftex.def Info: images/3.PNG  used on input line 21.
 (pdftex.def)             Requested size: 251.9989pt x 17.47227pt.
-<images/4.PNG, id=304, 301.125pt x 27.85406pt>
+<images/4.PNG, id=320, 301.125pt x 27.85406pt>
 File: images/4.PNG Graphic file (type png)
 <use images/4.PNG>
 Package pdftex.def Info: images/4.PNG  used on input line 28.
 (pdftex.def)             Requested size: 251.9989pt x 23.31094pt.
-<images/5.PNG, id=305, 300.3722pt x 17.31468pt>
+<images/5.PNG, id=321, 300.3722pt x 17.31468pt>
 File: images/5.PNG Graphic file (type png)
 <use images/5.PNG>
 Package pdftex.def Info: images/5.PNG  used on input line 34.
 (pdftex.def)             Requested size: 251.9989pt x 14.52678pt.
-<images/6.PNG, id=306, 347.04657pt x 51.19125pt>
+<images/6.PNG, id=322, 347.04657pt x 51.19125pt>
 File: images/6.PNG Graphic file (type png)
 <use images/6.PNG>
 Package pdftex.def Info: images/6.PNG  used on input line 40.
 (pdftex.def)             Requested size: 270.0pt x 39.82745pt.
-<images/full.PNG, id=307, 369.63094pt x 233.37187pt>
+<images/full.PNG, id=323, 369.63094pt x 233.37187pt>
 File: images/full.PNG Graphic file (type png)
 <use images/full.PNG>
 Package pdftex.def Info: images/full.PNG  used on input line 46.
 (pdftex.def)             Requested size: 270.0pt x 170.47043pt.
-<images/HASIL 1.PNG, id=308, 532.23843pt x 527.72156pt>
+<images/HASIL 1.PNG, id=324, 532.23843pt x 527.72156pt>
 File: images/HASIL 1.PNG Graphic file (type png)
 <use images/HASIL 1.PNG>
 Package pdftex.def Info: images/HASIL 1.PNG  used on input line 51.
 (pdftex.def)             Requested size: 118.80066pt x 117.7901pt.
-<images/HASIL 2.PNG, id=309, 539.76656pt x 526.96875pt>
+<images/HASIL 2.PNG, id=325, 539.76656pt x 526.96875pt>
 File: images/HASIL 2.PNG Graphic file (type png)
 <use images/HASIL 2.PNG>
 Package pdftex.def Info: images/HASIL 2.PNG  used on input line 52.
@@ -519,12 +519,12 @@ Overfull \hbox (19.26361pt too wide) in paragraph at lines 3--7
  []
 
 (chapter/Face Recognition/face_recognition_video.tex
-<images/fr_1.PNG, id=327, 71.51718pt x 16.56187pt>
+<images/fr_1.PNG, id=343, 71.51718pt x 16.56187pt>
 File: images/fr_1.PNG Graphic file (type png)
 <use images/fr_1.PNG>
 Package pdftex.def Info: images/fr_1.PNG  used on input line 9.
 (pdftex.def)             Requested size: 108.0011pt x 25.01105pt.
-<images/fr_2.PNG, id=328, 413.29407pt x 29.35968pt>
+<images/fr_2.PNG, id=344, 413.29407pt x 29.35968pt>
 File: images/fr_2.PNG Graphic file (type png)
 <use images/fr_2.PNG>
 Package pdftex.def Info: images/fr_2.PNG  used on input line 17.
@@ -544,13 +544,13 @@ Underfull \hbox (badness 10000) in paragraph at lines 13--20
 
  []
 
-<images/fr_3.PNG, id=329, 176.15813pt x 27.10126pt>
+<images/fr_3.PNG, id=345, 176.15813pt x 27.10126pt>
 File: images/fr_3.PNG Graphic file (type png)
 <use images/fr_3.PNG>
 Package pdftex.def Info: images/fr_3.PNG  used on input line 25.
 (pdftex.def)             Requested size: 161.9989pt x 24.92268pt.
 [13 <./images/fr_1.PNG> <./images/fr_2.PNG> <./images/fr_3.PNG>]
-<images/fr_4.PNG, id=338, 316.93407pt x 42.91031pt>
+<images/fr_4.PNG, id=354, 316.93407pt x 42.91031pt>
 File: images/fr_4.PNG Graphic file (type png)
 <use images/fr_4.PNG>
 Package pdftex.def Info: images/fr_4.PNG  used on input line 33.
@@ -560,7 +560,7 @@ Overfull \hbox (2.48778pt too wide) in paragraph at lines 29--36
 \T1/lmr/m/n/10.95 den-gan fungsi \T1/lmr/bx/n/10.95 read()\T1/lmr/m/n/10.95 , dan un-tuk men-gubah warna citra men-jasi hitam-
  []
 
-<images/fr_5.PNG, id=339, 402.75468pt x 89.58469pt>
+<images/fr_5.PNG, id=355, 402.75468pt x 89.58469pt>
 File: images/fr_5.PNG Graphic file (type png)
 <use images/fr_5.PNG>
 Package pdftex.def Info: images/fr_5.PNG  used on input line 43.
@@ -575,18 +575,18 @@ Overfull \hbox (6.76358pt too wide) in paragraph at lines 37--46
 \T1/lmr/m/n/10.95 tori dataset yang telah di-ten-tukan, da \T1/lmr/bx/n/10.95 cv2.imshow \T1/lmr/m/n/10.95 un-tuk menampilkan
  []
 
-<images/fr_6.PNG, id=340, 177.66376pt x 70.76437pt>
+<images/fr_6.PNG, id=356, 177.66376pt x 70.76437pt>
 File: images/fr_6.PNG Graphic file (type png)
 <use images/fr_6.PNG>
 Package pdftex.def Info: images/fr_6.PNG  used on input line 50.
 (pdftex.def)             Requested size: 180.0pt x 71.69711pt.
 [14 <./images/fr_4.PNG> <./images/fr_5.PNG> <./images/fr_6.PNG>]
-<images/fr_full.PNG, id=348, 430.60875pt x 344.03531pt>
+<images/fr_full.PNG, id=364, 430.60875pt x 344.03531pt>
 File: images/fr_full.PNG Graphic file (type png)
 <use images/fr_full.PNG>
 Package pdftex.def Info: images/fr_full.PNG  used on input line 57.
 (pdftex.def)             Requested size: 306.0022pt x 244.48726pt.
-<images/dataset.PNG, id=349, 1324.19719pt x 635.37375pt>
+<images/dataset.PNG, id=365, 1324.19719pt x 635.37375pt>
 File: images/dataset.PNG Graphic file (type png)
 <use images/dataset.PNG>
 Package pdftex.def Info: images/dataset.PNG  used on input line 64.
@@ -597,17 +597,17 @@ Overfull \hbox (71.9989pt too wide) in paragraph at lines 64--65
  []
 
 [15 <./images/fr_full.PNG> <./images/dataset.PNG>]
-<images/train_1.PNG, id=357, 140.77594pt x 51.94406pt>
+<images/train_1.PNG, id=373, 140.77594pt x 51.94406pt>
 File: images/train_1.PNG Graphic file (type png)
 <use images/train_1.PNG>
 Package pdftex.def Info: images/train_1.PNG  used on input line 73.
 (pdftex.def)             Requested size: 143.9978pt x 53.13599pt.
-<images/train_2.PNG, id=358, 444.15938pt x 42.91031pt>
+<images/train_2.PNG, id=374, 444.15938pt x 42.91031pt>
 File: images/train_2.PNG Graphic file (type png)
 <use images/train_2.PNG>
 Package pdftex.def Info: images/train_2.PNG  used on input line 84.
 (pdftex.def)             Requested size: 323.9978pt x 31.30133pt.
-<images/train_3.PNG, id=359, 395.97937pt x 172.39406pt>
+<images/train_3.PNG, id=375, 395.97937pt x 172.39406pt>
 File: images/train_3.PNG Graphic file (type png)
 <use images/train_3.PNG>
 Package pdftex.def Info: images/train_3.PNG  used on input line 91.
@@ -618,86 +618,86 @@ Overfull \hbox (40.05937pt too wide) in paragraph at lines 88--97
  []
 
 [16 <./images/train_1.PNG> <./images/train_2.PNG> <./images/train_3.PNG>]
-<images/train_4.PNG, id=368, 493.845pt x 91.84312pt>
+<images/train_4.PNG, id=384, 493.845pt x 91.84312pt>
 File: images/train_4.PNG Graphic file (type png)
 <use images/train_4.PNG>
 Package pdftex.def Info: images/train_4.PNG  used on input line 101.
 (pdftex.def)             Requested size: 323.9978pt x 60.25507pt.
-<images/train_data.PNG, id=369, 454.69875pt x 59.47218pt>
+<images/train_data.PNG, id=385, 454.69875pt x 59.47218pt>
 File: images/train_data.PNG Graphic file (type png)
 <use images/train_data.PNG>
 Package pdftex.def Info: images/train_data.PNG  used on input line 111.
 (pdftex.def)             Requested size: 323.9978pt x 42.37799pt.
-<images/hasil_train.PNG, id=370, 470.50781pt x 57.96657pt>
+<images/hasil_train.PNG, id=386, 470.50781pt x 57.96657pt>
 File: images/hasil_train.PNG Graphic file (type png)
 <use images/hasil_train.PNG>
 Package pdftex.def Info: images/hasil_train.PNG  used on input line 118.
 (pdftex.def)             Requested size: 360.0pt x 44.35222pt.
-<images/recognition_1.PNG, id=371, 119.69719pt x 47.42719pt>
+<images/recognition_1.PNG, id=387, 119.69719pt x 47.42719pt>
 File: images/recognition_1.PNG Graphic file (type png)
 <use images/recognition_1.PNG>
 Package pdftex.def Info: images/recognition_1.PNG  used on input line 127.
 (pdftex.def)             Requested size: 161.9989pt x 64.19327pt.
  [17 <./images/train_4.PNG> <./images/train_data.PNG> <./images/hasil_train.PNG> <./images/recognition_1.PNG>]
-<images/recognition_2.PNG, id=381, 303.38344pt x 34.62938pt>
+<images/recognition_2.PNG, id=397, 303.38344pt x 34.62938pt>
 File: images/recognition_2.PNG Graphic file (type png)
 <use images/recognition_2.PNG>
 Package pdftex.def Info: images/recognition_2.PNG  used on input line 135.
 (pdftex.def)             Requested size: 270.0pt x 30.81949pt.
-<images/recognition_3.PNG, id=382, 313.17pt x 30.1125pt>
+<images/recognition_3.PNG, id=398, 313.17pt x 30.1125pt>
 File: images/recognition_3.PNG Graphic file (type png)
 <use images/recognition_3.PNG>
 Package pdftex.def Info: images/recognition_3.PNG  used on input line 142.
 (pdftex.def)             Requested size: 270.0pt x 25.96239pt.
-<images/recognition_4.PNG, id=383, 196.48407pt x 42.1575pt>
+<images/recognition_4.PNG, id=399, 196.48407pt x 42.1575pt>
 File: images/recognition_4.PNG Graphic file (type png)
 <use images/recognition_4.PNG>
 Package pdftex.def Info: images/recognition_4.PNG  used on input line 149.
 (pdftex.def)             Requested size: 180.0pt x 38.62325pt.
-<images/recognition_5.PNG, id=384, 322.20375pt x 18.0675pt>
+<images/recognition_5.PNG, id=400, 322.20375pt x 18.0675pt>
 File: images/recognition_5.PNG Graphic file (type png)
 <use images/recognition_5.PNG>
 Package pdftex.def Info: images/recognition_5.PNG  used on input line 156.
 (pdftex.def)             Requested size: 270.0pt x 15.14075pt.
-<images/recognition_6.PNG, id=385, 243.15843pt x 52.69687pt>
+<images/recognition_6.PNG, id=401, 243.15843pt x 52.69687pt>
 File: images/recognition_6.PNG Graphic file (type png)
 <use images/recognition_6.PNG>
 Package pdftex.def Info: images/recognition_6.PNG  used on input line 163.
 (pdftex.def)             Requested size: 270.0pt x 58.5135pt.
  [18 <./images/recognition_2.PNG> <./images/recognition_3.PNG> <./images/recognition_4.PNG> <./images/recognition_5.PNG> <./images/recognition_6.PNG>]
-<images/recognition_7.PNG, id=395, 299.61937pt x 122.70844pt>
+<images/recognition_7.PNG, id=411, 299.61937pt x 122.70844pt>
 File: images/recognition_7.PNG Graphic file (type png)
 <use images/recognition_7.PNG>
 Package pdftex.def Info: images/recognition_7.PNG  used on input line 171.
 (pdftex.def)             Requested size: 251.9989pt x 103.2073pt.
-<images/recognition_8.PNG, id=396, 484.81125pt x 167.87718pt>
+<images/recognition_8.PNG, id=412, 484.81125pt x 167.87718pt>
 File: images/recognition_8.PNG Graphic file (type png)
 <use images/recognition_8.PNG>
 Package pdftex.def Info: images/recognition_8.PNG  used on input line 179.
 (pdftex.def)             Requested size: 360.0pt x 124.66519pt.
-<images/recognition_9.PNG, id=397, 169.38281pt x 49.68562pt>
+<images/recognition_9.PNG, id=413, 169.38281pt x 49.68562pt>
 File: images/recognition_9.PNG Graphic file (type png)
 <use images/recognition_9.PNG>
 Package pdftex.def Info: images/recognition_9.PNG  used on input line 189.
 (pdftex.def)             Requested size: 161.9989pt x 47.521pt.
  [19 <./images/recognition_7.PNG> <./images/recognition_8.PNG> <./images/recognition_9.PNG>]
-<images/Hasil_recog.PNG, id=405, 409.53pt x 385.44pt>
+<images/Hasil_recog.PNG, id=421, 409.53pt x 385.44pt>
 File: images/Hasil_recog.PNG Graphic file (type png)
 <use images/Hasil_recog.PNG>
 Package pdftex.def Info: images/Hasil_recog.PNG  used on input line 196.
 (pdftex.def)             Requested size: 233.9978pt x 220.23828pt.
 ) (chapter/Face Recognition/face_recognition_camera.tex
-<images/fr_cam1.PNG, id=406, 95.6072pt x 14.30344pt>
+<images/fr_cam1.PNG, id=422, 95.6072pt x 14.30344pt>
 File: images/fr_cam1.PNG Graphic file (type png)
 <use images/fr_cam1.PNG>
 Package pdftex.def Info: images/fr_cam1.PNG  used on input line 9.
 (pdftex.def)             Requested size: 108.0011pt x 16.15852pt.
-<images/fr_cam2.PNG, id=407, 408.77719pt x 29.35968pt>
+<images/fr_cam2.PNG, id=423, 408.77719pt x 29.35968pt>
 File: images/fr_cam2.PNG Graphic file (type png)
 <use images/fr_cam2.PNG>
 Package pdftex.def Info: images/fr_cam2.PNG  used on input line 17.
 (pdftex.def)             Requested size: 323.9978pt x 23.27182pt.
-<images/fr_cam3.PNG, id=408, 258.9675pt x 57.96657pt>
+<images/fr_cam3.PNG, id=424, 258.9675pt x 57.96657pt>
 File: images/fr_cam3.PNG Graphic file (type png)
 <use images/fr_cam3.PNG>
 Package pdftex.def Info: images/fr_cam3.PNG  used on input line 25.
@@ -706,18 +706,18 @@ Package pdftex.def Info: images/fr_cam3.PNG  used on input line 25.
 
 LaTeX Warning: `!h' float specifier changed to `!ht'.
 
-<images/fr_cam4.PNG, id=409, 455.45157pt x 204.765pt>
+<images/fr_cam4.PNG, id=425, 455.45157pt x 204.765pt>
 File: images/fr_cam4.PNG Graphic file (type png)
 <use images/fr_cam4.PNG>
 Package pdftex.def Info: images/fr_cam4.PNG  used on input line 32.
 (pdftex.def)             Requested size: 323.9978pt x 145.66847pt.
 [20 <./images/Hasil_recog.PNG> <./images/fr_cam1.PNG> <./images/fr_cam2.PNG>]
-<images/fr_cam5.PNG, id=418, 496.10344pt x 121.95563pt>
+<images/fr_cam5.PNG, id=434, 496.10344pt x 121.95563pt>
 File: images/fr_cam5.PNG Graphic file (type png)
 <use images/fr_cam5.PNG>
 Package pdftex.def Info: images/fr_cam5.PNG  used on input line 39.
 (pdftex.def)             Requested size: 360.0pt x 88.49835pt.
-<images/fr_cam6.PNG, id=419, 1301.61281pt x 309.40594pt>
+<images/fr_cam6.PNG, id=435, 1301.61281pt x 309.40594pt>
 File: images/fr_cam6.PNG Graphic file (type png)
 <use images/fr_cam6.PNG>
 Package pdftex.def Info: images/fr_cam6.PNG  used on input line 41.
@@ -727,22 +727,65 @@ Overfull \hbox (36.0022pt too wide) in paragraph at lines 41--42
  [][] 
  []
 
-[21 <./images/fr_cam3.PNG> <./images/fr_cam4.PNG> <./images/fr_cam5.PNG> <./images/fr_cam6.PNG>])) [22] (main.aux)
+[21 <./images/fr_cam3.PNG> <./images/fr_cam4.PNG> <./images/fr_cam5.PNG> <./images/fr_cam6.PNG>]
+<images/fr_cam7.PNG, id=445, 140.77594pt x 37.64063pt>
+File: images/fr_cam7.PNG Graphic file (type png)
+<use images/fr_cam7.PNG>
+Package pdftex.def Info: images/fr_cam7.PNG  used on input line 54.
+(pdftex.def)             Requested size: 143.9978pt x 38.50433pt.
+<images/fr_cam8.PNG, id=446, 444.15938pt x 66.2475pt>
+File: images/fr_cam8.PNG Graphic file (type png)
+<use images/fr_cam8.PNG>
+Package pdftex.def Info: images/fr_cam8.PNG  used on input line 65.
+(pdftex.def)             Requested size: 323.9978pt x 48.32487pt.
+<images/fr_cam9.PNG, id=447, 108.405pt x 55.70813pt>
+File: images/fr_cam9.PNG Graphic file (type png)
+<use images/fr_cam9.PNG>
+Package pdftex.def Info: images/fr_cam9.PNG  used on input line 72.
+(pdftex.def)             Requested size: 108.0011pt x 55.50311pt.
+ [22 <./images/fr_cam7.PNG> <./images/fr_cam8.PNG> <./images/fr_cam9.PNG>]
+<images/fr_cam10.PNG, id=459, 271.76532pt x 66.2475pt>
+File: images/fr_cam10.PNG Graphic file (type png)
+<use images/fr_cam10.PNG>
+Package pdftex.def Info: images/fr_cam10.PNG  used on input line 82.
+(pdftex.def)             Requested size: 251.9989pt x 61.43161pt.
+<images/fr_cam11.PNG, id=460, 337.26pt x 113.67468pt>
+File: images/fr_cam11.PNG Graphic file (type png)
+<use images/fr_cam11.PNG>
+Package pdftex.def Info: images/fr_cam11.PNG  used on input line 91.
+(pdftex.def)             Requested size: 288.0011pt x 97.07317pt.
+<images/fr_cam12.PNG, id=461, 216.05719pt x 52.69687pt>
+File: images/fr_cam12.PNG Graphic file (type png)
+<use images/fr_cam12.PNG>
+Package pdftex.def Info: images/fr_cam12.PNG  used on input line 98.
+(pdftex.def)             Requested size: 180.0pt x 43.90402pt.
+ [23 <./images/fr_cam10.PNG> <./images/fr_cam11.PNG> <./images/fr_cam12.PNG>]
+<images/fr_cam13.PNG, id=469, 310.15875pt x 76.78688pt>
+File: images/fr_cam13.PNG Graphic file (type png)
+<use images/fr_cam13.PNG>
+Package pdftex.def Info: images/fr_cam13.PNG  used on input line 105.
+(pdftex.def)             Requested size: 251.9989pt x 62.388pt.
+<images/fr_cam14.PNG, id=470, 476.53032pt x 526.96875pt>
+File: images/fr_cam14.PNG Graphic file (type png)
+<use images/fr_cam14.PNG>
+Package pdftex.def Info: images/fr_cam14.PNG  used on input line 112.
+(pdftex.def)             Requested size: 360.0pt x 398.12834pt.
+ [24 <./images/fr_cam13.PNG> <./images/fr_cam14.PNG>])) [25] (main.aux)
 Package rerunfilecheck Info: File `main.out' has not changed.
 (rerunfilecheck)             Checksum: 9A120366FCDEE4EE085274A5CD722073;2832.
  ) 
 Here is how much of TeX's memory you used:
- 10476 strings out of 477992
- 174038 string characters out of 2826050
+ 10546 strings out of 477992
+ 175403 string characters out of 2826050
  476922 words of memory out of 3000000
- 28894 multiletter control sequences out of 15000+600000
+ 28942 multiletter control sequences out of 15000+600000
  548807 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  72i,8n,77p,444b,593s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (26 pages, 3611627 bytes).
+Output written on main.pdf (29 pages, 3664142 bytes).
 PDF statistics:
- 517 PDF objects out of 1000 (max. 8388607)
- 119 named destinations out of 1000 (max. 500000)
- 369 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 567 PDF objects out of 1000 (max. 8388607)
+ 133 named destinations out of 1000 (max. 500000)
+ 409 words of extra memory for PDF output out of 10000 (max. 10000000)
 

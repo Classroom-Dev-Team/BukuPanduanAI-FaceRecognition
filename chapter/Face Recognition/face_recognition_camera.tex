@@ -42,5 +42,75 @@
         \caption{Isi direktori salah satu label dataset}
     \end{figure}
     \item Proses training dataset
-    \item proses pengenalan wajah
+    
+    - Import library, training dataset kali ini memerlukan library baru yaitu : 
+    \begin{enumerate}[*]
+        \item \textbf{os} untuk mengakses fungsi pada sistem operasi,
+        \item \textbf{pickle} untuk menyimpan dan membaca data ke dalam/dari sebuah file, dan
+        \item \textbf{Image dari PIL} untuk memuat gambar dari file, dan untuk membuat gambar baru.
+    \end{enumerate}
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.4\linewidth]{images/fr_cam7.PNG}
+        \caption{Import library}
+    \end{figure}
+
+    - Baris ke-1 dan 2 untuk mengambil dataset dengan join direktori tempat kumpulan dataset
+
+    Baris ke -3 untuk memasukan algoritma face detection
+
+    Baris ke-4 untuk proses deteksi wajah dengan algoritma LBPH
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.9\linewidth]{images/fr_cam8.PNG}
+        \caption{Pengambilan dataset }
+    \end{figure}
+
+    - Pembuatan variabel array untuk data id dan label gambar
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.3\linewidth]{images/fr_cam9.PNG}
+        \caption{Variabel }
+    \end{figure}
+
+    \newpage
+    - Menelusuri seluruh folder dan mencari gambar, file yang diakhiri 
+    dengan jpg. Menggunakan root, untuk menemukan nama folder file dan menyimpannya dalam variabel label. 
+    Nama orang yang akan ditampilkan di layar akan menjadi labelnya.
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.7\linewidth]{images/fr_cam10.PNG}
+        \caption{Menelusuri folder dataset }
+    \end{figure}
+
+    - Proses mengubah gambah menjadi array numpy dan melakukan training data. Untuk mengambil gambar menggunakan library 
+    \textbf{Image} Pillow pada python kemudian gambar yang diambilakan dikonversi kedalan grayscale, lalu diubah ke dalam bentur array numpy. 
+    Hal ini dilakukan untuk memberikan label terhadap id tertentu. selanjutnya akan dilakukan deteksi wajah menggunakan algoritma \textbf{cascade}
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.8\linewidth]{images/fr_cam11.PNG}
+        \caption{Menelusuri folder dataset dan konversi gambar}
+    \end{figure}
+
+    - Mengisi bingkai deteksi dengan nama label sesuai kecocokannya
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.5\linewidth]{images/fr_cam12.PNG}
+        \caption{Melampirkan nama}
+    \end{figure}
+    \newpage
+    - Menyimpan hasil training data pada file face-trainner.yml
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.7\linewidth]{images/fr_cam13.PNG}
+        \caption{Simpan hasil training}
+    \end{figure}
+
+    - Keseluruhan program training data
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\linewidth]{images/fr_cam14.PNG}
+        \caption{Program training}
+    \end{figure}
+    \item Proses pengenalan wajah
 \end{enumerate}
