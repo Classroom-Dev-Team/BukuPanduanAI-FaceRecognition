@@ -113,4 +113,47 @@
         \caption{Program training}
     \end{figure}
     \item Proses pengenalan wajah
+    
+    - Import Library
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.4\linewidth]{images/fr_cam15.PNG}
+        \caption{Import library}
+    \end{figure}
+
+    - Menggunakan algoritma LBPH untuk pengenalan wajah, dengan membaca model file hasil 
+    data training sebelumnya. Dan penggunaan library \textbf{pickle} untuk mengambil label nama sesuai id
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=1\linewidth]{images/fr_cam16.PNG}
+        \caption{Model trained}
+    \end{figure}
+
+    - Pengaturan kamera, pengubahan warna citra menjadi grayscale untuk pencocokan dengan train dataset
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.65\linewidth]{images/fr_cam17.PNG}
+        \caption{Pengaturan kamera}
+    \end{figure}
+\newpage
+    - Proses prediksi untuk pencocokan inputan wajah pada kamera dengan train dataset. 
+    Dengan menampilkan label nama sesuai id dan persentase kecocokan.
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.8\linewidth]{images/fr_cam18.PNG}
+        \caption{Import library}
+    \end{figure}
+
+    - Hasil
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.8\linewidth]{images/fr_cam_30cm.PNG}
+        \caption{Hasil face recognition jarak sekitar 30 cm dengan kamera}
+    \end{figure}
+    \newpage
+    \begin{figure}[h!]
+        \centering
+        \includegraphics[width=0.8\linewidth]{images/fr_hasil1_1m.PNG}
+        \caption{Hasil face recognition jarak sekitar 1 meter dengan kamera}
+    \end{figure}
 \end{enumerate}
