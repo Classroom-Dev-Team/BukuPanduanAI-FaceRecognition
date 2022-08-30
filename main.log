@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  30 AUG 2022 09:57
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.7.30) (preloaded format=pdflatex 2022.8.12)  30 AUG 2022 10:23
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -560,11 +560,11 @@ Overfull \hbox (2.48778pt too wide) in paragraph at lines 29--36
 \T1/lmr/m/n/10.95 den-gan fungsi \T1/lmr/bx/n/10.95 read()\T1/lmr/m/n/10.95 , dan un-tuk men-gubah warna citra men-jasi hitam-
  []
 
-<images/fr_5.PNG, id=367, 402.75468pt x 89.58469pt>
+<images/fr_5.PNG, id=367, 406.51875pt x 87.32625pt>
 File: images/fr_5.PNG Graphic file (type png)
 <use images/fr_5.PNG>
 Package pdftex.def Info: images/fr_5.PNG  used on input line 43.
-(pdftex.def)             Requested size: 306.0022pt x 68.06454pt.
+(pdftex.def)             Requested size: 306.0022pt x 65.7357pt.
 
 Overfull \hbox (5.92322pt too wide) in paragraph at lines 37--46
 \T1/lmr/bx/n/10.95 tect-Mul-ti-Scale()\T1/lmr/m/n/10.95 . Pada baris se-lan-jut-nya ada fungsi mem-buat bingkai
@@ -712,11 +712,11 @@ File: images/fr_cam4.PNG Graphic file (type png)
 Package pdftex.def Info: images/fr_cam4.PNG  used on input line 32.
 (pdftex.def)             Requested size: 323.9978pt x 145.66847pt.
 [20 <./images/Hasil_recog.PNG> <./images/fr_cam1.PNG> <./images/fr_cam2.PNG>]
-<images/fr_cam5.PNG, id=446, 496.10344pt x 121.95563pt>
+<images/fr_cam5.PNG, id=446, 480.29437pt x 92.59593pt>
 File: images/fr_cam5.PNG Graphic file (type png)
 <use images/fr_cam5.PNG>
 Package pdftex.def Info: images/fr_cam5.PNG  used on input line 39.
-(pdftex.def)             Requested size: 360.0pt x 88.49835pt.
+(pdftex.def)             Requested size: 360.0pt x 69.40578pt.
 <images/fr_cam6.PNG, id=447, 1301.61281pt x 309.40594pt>
 File: images/fr_cam6.PNG Graphic file (type png)
 <use images/fr_cam6.PNG>
@@ -728,17 +728,17 @@ Overfull \hbox (36.0022pt too wide) in paragraph at lines 41--42
  []
 
 [21 <./images/fr_cam3.PNG> <./images/fr_cam4.PNG> <./images/fr_cam5.PNG> <./images/fr_cam6.PNG>]
-<images/fr_cam7.PNG, id=457, 140.77594pt x 37.64063pt>
+<images/fr_cam7.PNG, id=458, 140.77594pt x 37.64063pt>
 File: images/fr_cam7.PNG Graphic file (type png)
 <use images/fr_cam7.PNG>
 Package pdftex.def Info: images/fr_cam7.PNG  used on input line 54.
 (pdftex.def)             Requested size: 143.9978pt x 38.50433pt.
-<images/fr_cam8.PNG, id=458, 444.15938pt x 66.2475pt>
+<images/fr_cam8.PNG, id=459, 444.15938pt x 66.2475pt>
 File: images/fr_cam8.PNG Graphic file (type png)
 <use images/fr_cam8.PNG>
 Package pdftex.def Info: images/fr_cam8.PNG  used on input line 65.
 (pdftex.def)             Requested size: 323.9978pt x 48.32487pt.
-<images/fr_cam9.PNG, id=459, 108.405pt x 55.70813pt>
+<images/fr_cam9.PNG, id=460, 108.405pt x 55.70813pt>
 File: images/fr_cam9.PNG Graphic file (type png)
 <use images/fr_cam9.PNG>
 Package pdftex.def Info: images/fr_cam9.PNG  used on input line 72.
@@ -814,9 +814,9 @@ Here is how much of TeX's memory you used:
  28978 multiletter control sequences out of 15000+600000
  548807 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 72i,8n,77p,444b,593s stack positions out of 10000i,1000n,20000p,200000b,80000s
+ 72i,8n,77p,444b,677s stack positions out of 10000i,1000n,20000p,200000b,80000s
 {C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc}<C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmbx12.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmcsc10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr12.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr17.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr6.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr8.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmr9.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmri9.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmro10.pfb><C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/type1/public/lm/lmtt10.pfb>
-Output written on main.pdf (31 pages, 4574880 bytes).
+Output written on main.pdf (31 pages, 4574419 bytes).
 PDF statistics:
  601 PDF objects out of 1000 (max. 8388607)
  141 named destinations out of 1000 (max. 500000)
