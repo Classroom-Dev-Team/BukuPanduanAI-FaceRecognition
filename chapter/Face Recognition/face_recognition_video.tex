@@ -1,7 +1,7 @@
 
 \subsection{Face Recognition dengan video}
 \begin{enumerate}[1.]
-\item Proses mengumpulkan dataset dengan
+\item Proses mengumpulkan dataset dengan video
 
 - Memasukan library openCV, yaitu \textbf{cv2}
 \begin{figure}[h!]
@@ -35,8 +35,8 @@ dengan fungsi \textbf{cv2.cvtColor}
 \end{figure}
 
 - Pada baris pertama fungsi untuk deteksi wajah dengan fungsi \textbf{detectMultiScale()}. 
-Pada baris selanjutnya ada fungsi membuat bingkai \textbf{cv2.rectangle} lalu ada pengulangan untuk jumlah gambar yang ditangkat
-, lalu ada \textbf{cv2.imwrite} untuk menyimpan gambar data direktori dataset yang telah ditentukan, da \textbf{cv2.imshow} untuk 
+Pada baris selanjutnya ada fungsi membuat bingkai \textbf{cv2.rectangle} lalu ada pengulangan untuk jumlah gambar yang ditangkap
+, lalu ada \textbf{cv2.imwrite} untuk menyimpan gambar data direktori dataset yang telah ditentukan, dan \textbf{cv2.imshow} untuk 
 menampilkan video atau kamera yang aka dideteksi dan diambil gambar untuk dataset.
 \begin{figure}[h!]
     \centering
@@ -143,7 +143,7 @@ membaca hasil dari training dataset dalam bentuk file \textbf{.yml} untuk mengek
     \caption{Deteksi wajah}
 \end{figure}
 
-- Baris untuk tipe font yang akan diunculkan, serta variabel id untuk id dataset
+- Baris untuk tipe font yang akan diunculkan, serta variabel id untuk menampung id dataset
 \begin{figure}[h!]
     \centering
     \includegraphics[width=0.5\linewidth]{images/recognition_4.PNG}

@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1661829832 "d:/Nurul/BukuPanduan-OpenCV/main.tex" "main.pdf" "main" 1661829835
+["pdflatex"] 1661929301 "d:/Nurul/BukuPanduan-OpenCV/main.tex" "main.pdf" "main" 1661929304
   "C:/Users/Tikomdik/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map" 1660794094 80909 eab91d9745dd2edfd62a31d53cd5fe15 ""
   "C:/Users/Tikomdik/AppData/Local/MiKTeX/miktex/data/le/pdftex/pdflatex.fmt" 1660291521 10361023 b253c0b3c1eb9b4a4f160b9e952ad327 ""
   "C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/lm/lm-ec.enc" 1256929440 2375 baa924870cfb487815765f9094cf3728 ""
@@ -107,9 +107,9 @@
   "C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/tex/latex/refcount/refcount.sty" 1576433952 9878 9e94e8fa600d95f9c7731bb21dfb67a4 ""
   "C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/tex/latex/rerunfilecheck/rerunfilecheck.sty" 1657800696 9714 ba3194bd52c8499b3f1e3eb91d409670 ""
   "C:/Users/Tikomdik/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
-  "chapter/Face Recognition/face_recognition_camera.tex" 1661829717 6418 6df26d39961c28641508ce425dbe97c6 ""
-  "chapter/Face Recognition/face_recognition_video.tex" 1661736957 8123 8f124d85f380f0c30ee4c82864584a5c ""
-  "chapter/model_algoritma_face_recognition_opencv.tex" 1661155089 3473 4f3b54c0fb8df7848afa3f738b4e4b7b ""
+  "chapter/Face Recognition/face_recognition_camera.tex" 1661919167 6438 ac19444f3b6a4063d05667423edcf88a ""
+  "chapter/Face Recognition/face_recognition_video.tex" 1661911075 8140 64ab3a671469c2dcb56989a04771c879 ""
+  "chapter/model_algoritma_face_recognition_opencv.tex" 1661929299 7002 c08bf3528efcf9a7d83a6422591931de ""
   "chapter/pengantar_AI_dalam_pengenalan_wajah.tex" 1660879799 1866 86d7efd8d2b3811bd8d6dd7721b66ef2 ""
   "chapter/proses_face_detection.tex" 1660880370 2740 5fd6f0213ec95ed120bb26a92a2586f4 ""
   "chapter/proses_face_recognition.tex" 1661736365 832 79bfc0dbbb4ff33a7692e3519ef51b70 ""
@@ -157,6 +157,7 @@
   "images/fr_hasil1_1m.PNG" 1661827320 517104 3e25f96ea51bd9b1624282014aa56098 ""
   "images/full.PNG" 1660548207 18591 a5a941e758a91b5f47cf6887d311a364 ""
   "images/hasil_train.PNG" 1661312105 3765 e0ae538d1cb4a1aa4e5308ac9a91e986 ""
+  "images/lbph.PNG" 1661928931 75156 178f901ecaadef1c688c30202abe35d6 ""
   "images/opencv_1.PNG" 1660538493 1257 48e53c359ce19d82397dd596b6cc97dd ""
   "images/opencv_2.PNG" 1660538899 9476 c47351ff5ad3c57b7817bc43301060a1 ""
   "images/opencv_3.PNG" 1660539097 7975 24f9713d3a7a478996cef00295f139be ""
@@ -179,11 +180,11 @@
   "images/train_4.PNG" 1661303728 9127 68056e25d9ad25c6cbab7692b3f45094 ""
   "images/train_data.PNG" 1661312088 4369 3c88669c7c0cfd33137059325cf94fe2 ""
   "images/web_py.PNG" 1660528111 233934 b90d9fb8eb144ff2e375a6a3c3e9ba6f ""
-  "main.aux" 1661829835 11538 7af29a567d17a68b728269dce57b1587 "pdflatex"
-  "main.lof" 1661829835 6241 c01d58f6981d5533fc1d7b4ad014477a "pdflatex"
-  "main.out" 1661829835 2832 9a120366fcdee4ee085274a5cd722073 "pdflatex"
+  "main.aux" 1661929304 11672 ddcaf8b4bdef98f5216e18caf733473f "pdflatex"
+  "main.lof" 1661929304 6334 ed588594994e64307e6ce5b33dc841bb "pdflatex"
+  "main.out" 1661929304 2832 9a120366fcdee4ee085274a5cd722073 "pdflatex"
   "main.tex" 1661155780 2985 2849b33a287ef23b1314e8ac688ddef3 ""
-  "main.toc" 1661829835 1397 1764d4e09c61c98ed3f857454cf2f6b6 "pdflatex"
+  "main.toc" 1661929304 1397 b36643507f39bbce845c0cb60aab15e0 "pdflatex"
   (generated)
   "main.aux"
   "main.lof"
